@@ -1,0 +1,1092 @@
+CustomerID,Title,CreditCardType,Occupation,Gender,Age,Location,MotorInsurance,MotorValue,MotorType,HealthInsurance,HealthType,HealthDependentsAdults,HealthDependentsKids,TravelInsurance,TravelType,CardHolder,Married,AgeBuckets,MotorValueBuckets,MotorFlag,MotorLevel,HealthFlag,HealthLevel,TravelFlag,TravelLevel,Instances,customerValue,SalaryIndicator,FamilyIndicator,cluster,PrefChannel,Group
+1265,Mrs.,AMEX,NA,female,50,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,Yes,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,control
+478,Ms.,AMEX,Osteopathic surgeon,female,54,Rural,Yes,8981,Single,Yes,Level2,0,2,Yes,Business,Yes,No,>50,low,1,1,1,2,1,3,3,6,med,nuclear family,Ready Rurals,Phone,control
+4048,Ms.,Visa,NA,female,44,Rural,Yes,16735,Single,Yes,Level2,1,2,Yes,Standard,Yes,No,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,control
+146,Mr.,Visa,Prosecutor,male,47,Rural,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,control
+5176,Mrs.,Visa,NA,female,51,Urban,Yes,10999,Single,Yes,Level1,0,3,Yes,Standard,Yes,Yes,>50,low,1,1,1,1,1,2,3,4,med,Big family,Ready Rurals,Phone,control
+323,Mrs.,Visa,Automotive air-conditioning repairer,female,52,Rural,Yes,16814,Single,Yes,Level2,1,2,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,control
+4158,Mr.,No Card,Shoe and leather repairer,male,41,Urban,No,NA,No MotorInsurance,Yes,Level2,1,3,Yes,Standard,No,Yes,36-50,0,0,0,1,2,1,2,2,4,med,Big family,Ready Rurals,Email,control
+828,Mr.,Visa,Land surveyor,male,49,Urban,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,control
+5034,Mrs.,No Card,Archaeologist,female,48,Rural,Yes,11816,Single,No,0,No HI,No HI,No,0,No,Yes,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,control
+4862,Dr.,Visa,NA,male,74,Rural,No,NA,No MotorInsurance,Yes,Level3,1,0,Yes,Business,Yes,No,>50,0,0,0,1,3,1,3,2,6,med,nuclear family,Ready Rurals,Phone,control
+1440,Ms.,AMEX,NA,female,49,Rural,Yes,16633,Single,Yes,Level2,2,2,No,0,Yes,No,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,control
+1748,Mrs.,No Card,NA,female,43,Urban,Yes,8924,Single,No,0,No HI,No HI,No,0,No,Yes,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,control
+1801,Mr.,Visa,Scientific photographer,male,50,Rural,No,NA,No MotorInsurance,Yes,Level2,0,2,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,nuclear family,Ready Rurals,Phone,control
+453,Mr.,Visa,Student affairs administrator,male,41,Rural,Yes,16547,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,control
+1542,Mr.,AMEX,Store detective,male,71,Rural,No,NA,No MotorInsurance,Yes,Level3,0,0,Yes,Premium,Yes,No,>50,0,0,0,1,3,1,3,2,6,med,single,Ready Rurals,Phone,control
+4177,Ms.,Visa,NA,female,51,Urban,Yes,12393,Bundle,No,0,No HI,No HI,No,0,Yes,No,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,control
+569,Mr.,AMEX,Government auditor,male,49,Rural,Yes,13328,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,control
+4299,Mr.,Visa,NA,male,47,Rural,Yes,16318,Single,Yes,Level1,0,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,1,1,2,3,5,med,nuclear family,Ready Rurals,Phone,control
+124,Mrs.,AMEX,Bindery machine setter,female,20,Urban,Yes,30601,Bundle,No,0,No HI,No HI,No,0,Yes,Yes,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,control
+56,Mr.,AMEX,Licensed clinical social worker,male,24,Rural,Yes,28073,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,control
+4370,Mrs.,AMEX,Recreational vehicle service technician,female,21,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,control
+4694,Mr.,No Card,Content editor,male,20,Urban,Yes,20870,Bundle,No,0,No HI,No HI,Yes,Premium,No,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,control
+3461,Mrs.,AMEX,NA,female,21,Urban,Yes,26574,Bundle,Yes,Level3,0,0,Yes,Standard,Yes,Yes,<=35,medium,1,2,1,3,1,2,3,7,high,single,Millineum Potentials,Email,control
+2702,Mrs.,Visa,NA,female,18,Rural,Yes,25961,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,control
+2698,Mrs.,AMEX,NA,female,20,Urban,Yes,20670,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,Yes,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,control
+3094,Mrs.,Visa,Microbiologist,female,20,Rural,Yes,27882,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,control
+1574,Ms.,Visa,Custom inspector,female,23,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,control
+801,Mrs.,No Card,NA,female,23,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,No,Yes,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,control
+4325,Mr.,Visa,Purchasing agent,male,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Standard,Yes,No,<=35,0,0,0,0,0,1,2,1,2,low,No Health Insurance,Millineum Potentials,SMS,control
+883,Mr.,Visa,NA,male,18,Urban,Yes,5005.8,Bundle,Yes,Level1,0,0,Yes,Standard,Yes,No,<=35,low,1,1,1,1,1,2,3,4,med,single,Millineum Potentials,SMS,control
+252,Mrs.,Visa,Administrator,female,20,Rural,Yes,31022,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,control
+4405,Mr.,Visa,Server,male,22,Rural,Yes,20739,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,control
+3520,Mrs.,Visa,Endodontist,female,19,Urban,Yes,33261,Bundle,Yes,Level3,0,0,Yes,Backpacker,Yes,Yes,<=35,high,1,3,1,3,1,1,3,7,high,single,Millineum Potentials,Email,control
+3640,Mrs.,Visa,NA,female,20,Rural,Yes,18436,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,control
+2948,Ms.,AMEX,NA,female,55,Rural,Yes,17450,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,>50,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Titan Customers,Phone,control
+373,Mr.,No Card,Information processing worker,male,49,Urban,Yes,29683,Single,Yes,Level1,0,3,Yes,Business,No,Yes,36-50,medium,1,2,1,1,1,3,3,6,med,Big family,Titan Customers,Email,control
+4886,Ms.,Visa,Personal and home care aide,female,50,Urban,Yes,30143,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,36-50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Titan Customers,Email,control
+2992,Ms.,AMEX,Revenue officer,female,42,Urban,Yes,30928,Single,Yes,Level3,1,2,No,0,Yes,No,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,control
+4300,Mr.,AMEX,Clinical laboratory scientist,male,49,Urban,Yes,37430,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,control
+1930,Ms.,AMEX,Homemaker,female,47,Urban,Yes,38180.4,Single,No,0,No HI,No HI,Yes,Backpacker,Yes,No,36-50,high,1,3,0,0,1,1,2,4,med,No Health Insurance,Titan Customers,Email,control
+5078,Mr.,AMEX,Automotive body repairer,male,47,Urban,Yes,23904,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,36-50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Titan Customers,Email,control
+1747,Mr.,AMEX,Research dietitian,male,48,Urban,Yes,30486,Single,Yes,Level3,1,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,3,1,3,3,8,high,Big family,Titan Customers,Email,control
+4882,Mrs.,No Card,Microbiology technologist,female,45,Urban,Yes,34497,Single,Yes,Level1,1,3,No,0,No,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,control
+3301,Dr.,Visa,Medical records and health information technician,male,50,Urban,Yes,28230,Single,Yes,Level1,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Titan Customers,Email,control
+2554,Mrs.,AMEX,Purchasing technician,female,49,Urban,Yes,19063,Single,Yes,Level3,0,3,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,control
+4407,Mr.,AMEX,Technologist,male,43,Urban,Yes,34876,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,control
+1497,Mr.,Visa,Literary interpreter,male,51,Rural,Yes,36953,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,>50,high,1,3,0,0,1,2,2,5,med,No Health Insurance,Titan Customers,Email,control
+287,Mrs.,AMEX,Arbitrator,female,49,Rural,Yes,36052,Single,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,control
+4007,Ms.,Visa,Record clerk,female,45,Urban,Yes,29196,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,control
+530,Mr.,AMEX,Budget officer,male,47,Urban,Yes,37271,Single,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,control
+3875,Mr.,No Card,Private household cook,male,50,Urban,Yes,32892,Single,Yes,Level3,1,2,No,0,No,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,control
+3783,Mr.,Visa,Fish and game warden,male,48,Urban,Yes,19307,Single,Yes,Level2,0,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,control
+4042,Mrs.,Visa,Personal chef,female,56,Urban,Yes,15522,Single,Yes,Level2,1,3,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Phone,control
+456,Ms.,AMEX,NA,female,50,Urban,Yes,33191,Single,Yes,Level1,0,2,Yes,Backpacker,Yes,No,36-50,high,1,3,1,1,1,1,3,5,med,nuclear family,Titan Customers,Email,control
+52,Mr.,Visa,Organizational economist,male,49,Urban,Yes,35555,Single,Yes,Level1,1,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,1,1,3,3,7,high,Big family,Titan Customers,Email,control
+3,Mr.,AMEX,Biophysicist,male,52,Urban,Yes,17274,Single,No,0,No HI,No HI,No,0,Yes,No,>50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+6,Mr.,AMEX,Stevedore,male,49,Rural,Yes,11735,Single,Yes,Level1,2,3,Yes,Business,Yes,Yes,36-50,low,1,1,1,1,1,3,3,5,med,Big family,Ready Rurals,Phone,test
+7,Dr.,AMEX,NA,female,18,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+8,Ms.,AMEX,NA,female,48,Urban,Yes,13879,Single,Yes,Level1,1,3,No,0,Yes,No,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+9,Mr.,No Card,NA,male,49,Rural,Yes,17294,Single,Yes,Level2,1,3,Yes,Standard,No,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+10,Dr.,AMEX,Physical therapist,female,20,Urban,Yes,5005.8,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+12,Mr.,Visa,Sampler,male,48,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Ready Rurals,Email,test
+15,Mr.,AMEX,Principal secretary,male,52,Urban,No,NA,No MotorInsurance,Yes,Level2,2,2,Yes,Standard,Yes,Yes,>50,0,0,0,1,2,1,2,2,4,med,Big family,Ready Rurals,Phone,test
+25,Ms.,AMEX,NA,female,20,Urban,Yes,5228,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+34,Mr.,AMEX,Multiple machine tool tender,male,47,Rural,Yes,32809,Single,Yes,Level2,2,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+46,Mr.,Visa,Pointer,male,56,Rural,Yes,16342,Single,Yes,Level1,0,2,No,0,Yes,Yes,>50,medium,1,2,1,1,0,0,2,3,low,nuclear family,Ready Rurals,Phone,test
+47,Mr.,AMEX,Clerical specialist,male,19,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Standard,Yes,No,<=35,low,1,1,0,0,1,2,2,3,low,No Health Insurance,Millineum Potentials,SMS,test
+53,Ms.,AMEX,NA,female,18,Urban,Yes,29236,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+58,Ms.,No Card,Range manager,female,52,Rural,Yes,10882,Single,No,0,No HI,No HI,Yes,Backpacker,No,No,>50,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Ready Rurals,Phone,test
+61,Mr.,Visa,Placement counselor,male,20,Rural,Yes,30069,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+64,Mr.,Visa,NA,male,21,Urban,Yes,19593,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+75,Ms.,Visa,Procurement technician,female,55,Urban,Yes,34548,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,>50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+76,Ms.,Visa,NA,female,44,Urban,Yes,33979,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+80,Mr.,No Card,NA,male,18,Rural,Yes,23717,Bundle,No,0,No HI,No HI,Yes,Premium,No,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+98,Mrs.,AMEX,Apparel worker,female,49,Urban,Yes,32615,Bundle,Yes,Level2,1,2,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+103,Ms.,AMEX,Construction inspector,female,47,Urban,Yes,34443,Single,Yes,Level1,1,2,Yes,Standard,Yes,No,36-50,high,1,3,1,1,1,2,3,6,med,Big family,Titan Customers,Email,test
+115,Mr.,No Card,Choreographer,male,22,Urban,Yes,5005.8,Bundle,Yes,Level1,0,0,Yes,Premium,No,No,<=35,low,1,1,1,1,1,3,3,5,med,single,Millineum Potentials,SMS,test
+116,Dr.,AMEX,NA,female,47,Urban,Yes,32265,Single,Yes,Level2,1,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+118,Mr.,AMEX,Support staff clerk,male,49,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+120,Mrs.,Visa,Singer,female,20,Rural,Yes,28611,Bundle,Yes,Level1,1,0,Yes,Business,Yes,Yes,<=35,medium,1,2,1,1,1,3,3,6,med,nuclear family,Millineum Potentials,Email,test
+134,Ms.,AMEX,NA,female,21,Urban,Yes,38049,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Millineum Potentials,Email,test
+139,Mr.,Visa,Forest fire prevention specialist,male,50,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+140,Dr.,AMEX,Pediatrician,female,50,Rural,Yes,11777,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+147,Ms.,AMEX,NA,female,45,Urban,Yes,31407,Single,Yes,Level3,1,2,No,0,Yes,No,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,test
+148,Mrs.,Visa,Apartment leasing agent,female,18,Urban,Yes,5005.8,Single,No,0,No HI,No HI,No,0,Yes,Yes,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+150,Ms.,AMEX,Linguistic anthropologist,female,21,Urban,Yes,5113,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+157,Mrs.,AMEX,NA,female,49,Rural,Yes,11582,Single,No,0,No HI,No HI,Yes,Standard,Yes,Yes,36-50,low,1,1,0,0,1,2,2,3,low,No Health Insurance,Ready Rurals,Phone,test
+163,Mr.,Visa,NA,male,51,Urban,Yes,11952,Single,Yes,Level2,1,3,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+164,Ms.,No Card,Municipal court judge,female,51,Urban,Yes,12244,Single,Yes,Level1,1,3,Yes,Standard,No,No,>50,low,1,1,1,1,1,2,3,4,med,Big family,Ready Rurals,Phone,test
+166,Mr.,AMEX,NA,male,19,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+172,Mrs.,AMEX,NA,female,48,Urban,Yes,12672,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+173,Mr.,AMEX,Nephrology nurse,male,20,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+174,Dr.,Visa,Training specialist,male,44,Urban,Yes,24569,Single,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+179,Mr.,No Card,Industrial designer,male,47,Urban,Yes,38180.4,Single,Yes,Level3,1,3,No,0,No,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+183,Mrs.,AMEX,NA,female,18,Urban,Yes,29502,Bundle,Yes,Level1,0,0,Yes,Backpacker,Yes,Yes,<=35,medium,1,2,1,1,1,1,3,4,med,single,Millineum Potentials,Email,test
+186,Mrs.,AMEX,Electronics technician,female,49,Rural,Yes,15104,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+188,Mrs.,No Card,Dot etcher,female,22,Rural,Yes,25991,Bundle,No,0,No HI,No HI,Yes,Standard,No,Yes,<=35,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Millineum Potentials,Email,test
+191,Mrs.,Visa,Small engine service technician,female,19,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,No,0,Yes,Yes,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+192,Ms.,AMEX,Clerical supervisor,female,50,Urban,No,NA,No MotorInsurance,Yes,Level3,1,2,No,0,Yes,No,36-50,0,0,0,1,3,0,0,1,3,low,Big family,Ready Rurals,Phone,test
+195,Ms.,No Card,Dinkey operator,female,46,Rural,Yes,17668,Single,Yes,Level2,1,2,No,0,No,No,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+196,Mrs.,Visa,NA,female,21,Rural,No,NA,No MotorInsurance,Yes,Level1,0,0,Yes,Business,Yes,Yes,<=35,0,0,0,1,1,1,3,2,4,med,single,Millineum Potentials,Email,test
+198,Mr.,AMEX,Employee development manager,male,48,Rural,Yes,17543,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+204,Mrs.,AMEX,NA,female,49,Rural,Yes,16634,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+205,Mr.,AMEX,Coin vending and amusement machine servicer,male,42,Rural,Yes,28102,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+206,Mr.,Visa,NA,male,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+208,Mr.,Visa,Bench technician,male,52,Rural,Yes,19088,Single,Yes,Level2,2,3,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+209,Mr.,No Card,NA,male,51,Rural,Yes,35308,Bundle,Yes,Level2,1,2,No,0,No,Yes,>50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+212,Mr.,Visa,Signal and track switch repairer,male,22,Urban,No,NA,No MotorInsurance,Yes,Level3,0,0,Yes,Backpacker,Yes,No,<=35,0,0,0,1,3,1,1,2,4,med,single,Millineum Potentials,SMS,test
+215,Mr.,Visa,Rooms manager,male,20,Rural,Yes,28514,Bundle,Yes,Level1,0,0,Yes,Standard,Yes,No,<=35,medium,1,2,1,1,1,2,3,5,med,single,Millineum Potentials,Email,test
+220,Mr.,AMEX,Corporate office services manager,male,24,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+223,Ms.,Visa,Information systems manager,female,64,Urban,Yes,25398,Bundle,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,single,Titan Customers,Phone,test
+225,Ms.,AMEX,Shipping-and-receiving supervisor,female,46,Urban,Yes,34369,Single,Yes,Level1,0,2,No,0,Yes,No,36-50,high,1,3,1,1,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+234,Mr.,Visa,Marketing research analyst,male,51,Urban,Yes,11896,Single,Yes,Level2,1,2,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+239,Mrs.,No Card,Rental manager,female,50,Urban,Yes,35482,Single,Yes,Level2,1,3,Yes,Business,No,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+241,Mr.,AMEX,Gas and water service dispatcher,male,47,Rural,Yes,13122,Single,Yes,Level2,1,3,Yes,Standard,Yes,Yes,36-50,low,1,1,1,2,1,2,3,5,med,Big family,Ready Rurals,Phone,test
+245,Mrs.,AMEX,Dispensing optician,female,51,Rural,Yes,15717,Single,Yes,Level2,0,2,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+251,Ms.,Visa,Service technician,female,48,Rural,Yes,20489,Single,Yes,Level3,1,2,No,0,Yes,No,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+253,Ms.,AMEX,Loss prevention agent,female,55,Rural,Yes,13965,Single,No,0,No HI,No HI,No,0,Yes,No,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+261,Dr.,No Card,Mason,male,24,Urban,Yes,24890,Bundle,No,0,No HI,No HI,Yes,Business,No,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+265,Mrs.,No Card,National account executive,female,49,Rural,No,NA,No MotorInsurance,Yes,Level2,1,2,Yes,Standard,No,Yes,36-50,0,0,0,1,2,1,2,2,4,med,Big family,Ready Rurals,Phone,test
+272,Mr.,Visa,NA,male,49,Urban,Yes,33303,Single,Yes,Level3,2,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+274,Mrs.,Visa,DJ,female,45,Rural,Yes,30486,Single,Yes,Level3,0,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,3,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+279,Mrs.,No Card,Pesticide handler,female,21,Rural,Yes,23360,Bundle,No,0,No HI,No HI,Yes,Premium,No,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+284,Mr.,No Card,Secretarial assistant,male,47,Urban,Yes,35360,Single,No,0,No HI,No HI,No,0,No,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+298,Mr.,No Card,Electrical and electronics installer,male,47,Rural,Yes,8560,Single,No,0,No HI,No HI,Yes,Standard,No,No,36-50,low,1,1,0,0,1,2,2,3,low,No Health Insurance,Ready Rurals,Phone,test
+300,Mr.,No Card,Blaster,male,22,Rural,Yes,5037,Bundle,No,0,No HI,No HI,Yes,Premium,No,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+312,Mrs.,No Card,Homemaker,female,64,Rural,No,NA,No MotorInsurance,Yes,Level3,1,0,No,0,No,Yes,>50,0,0,0,1,3,0,0,1,3,low,nuclear family,Ready Rurals,Phone,test
+321,Mrs.,AMEX,Legal investigator,female,51,Rural,No,NA,No MotorInsurance,Yes,Level2,0,2,Yes,Standard,Yes,Yes,>50,0,0,0,1,2,1,2,2,4,med,nuclear family,Ready Rurals,Phone,test
+332,Ms.,Visa,NA,female,20,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+333,Mr.,Visa,NA,male,70,Rural,No,NA,No MotorInsurance,Yes,Level3,1,0,No,0,Yes,No,>50,0,0,0,1,3,0,0,1,3,low,nuclear family,Ready Rurals,Phone,test
+336,Ms.,Visa,Executive chef,female,19,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+342,Mrs.,Visa,NA,female,22,Urban,Yes,5152,Bundle,Yes,Level1,0,0,No,0,Yes,Yes,<=35,low,1,1,1,1,0,0,2,2,low,single,Millineum Potentials,SMS,test
+366,Mr.,Visa,NA,male,47,Urban,No,NA,No MotorInsurance,Yes,Level1,2,3,No,0,Yes,Yes,36-50,0,0,0,1,1,0,0,1,1,low,Big family,Ready Rurals,Phone,test
+371,Mrs.,Visa,Sales worker supervisor,female,47,Rural,Yes,36605,Single,Yes,Level3,1,3,No,0,Yes,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+376,Ms.,Visa,Gerontologist,female,19,Urban,Yes,25759,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+378,Mr.,No Card,Laboratory animal technologist,male,50,Urban,Yes,34722,Single,Yes,Level3,1,2,Yes,Standard,No,Yes,36-50,high,1,3,1,3,1,2,3,8,high,Big family,Titan Customers,Email,test
+379,Mr.,Visa,Aircraft cargo handling supervisor,male,48,Urban,Yes,17200,Single,Yes,Level3,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,test
+381,Mrs.,No Card,NA,female,48,Urban,Yes,33654,Single,Yes,Level2,1,2,Yes,Business,No,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+383,Ms.,Visa,NA,female,18,Urban,Yes,21441,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+385,Mr.,AMEX,Surveying technician,male,53,Rural,Yes,12904,Single,Yes,Level2,0,2,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,nuclear family,Ready Rurals,Phone,test
+386,Mr.,AMEX,Human resources assistant,male,48,Urban,Yes,28138,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Titan Customers,Email,test
+388,Ms.,AMEX,Administrative clerk,female,42,Urban,Yes,34297,Single,Yes,Level2,1,2,Yes,Business,Yes,No,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+390,Ms.,No Card,Press agent,female,18,Urban,Yes,5195,Single,No,0,No HI,No HI,No,0,No,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+391,Mrs.,AMEX,NA,female,50,Rural,Yes,18001,Single,Yes,Level2,0,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,nuclear family,Ready Rurals,Phone,test
+395,Mr.,No Card,NA,male,45,Urban,Yes,30497,Single,No,0,No HI,No HI,No,0,No,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+397,Mr.,AMEX,Rotary drill operator,male,50,Rural,Yes,16695,Single,Yes,Level2,0,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+410,Mrs.,AMEX,NA,female,51,Rural,Yes,15121,Single,No,0,No HI,No HI,No,0,Yes,Yes,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+413,Ms.,AMEX,NA,female,48,Urban,Yes,8343,Single,Yes,Level2,2,2,No,0,Yes,No,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+422,Mrs.,AMEX,Electronics engineer,female,23,Urban,Yes,23661,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+423,Dr.,AMEX,NA,male,44,Urban,Yes,38180.4,Single,Yes,Level2,0,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+428,Mrs.,Visa,Animal control worker,female,18,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+429,Mr.,Visa,Landlord,male,66,Rural,Yes,35394,Bundle,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,high,1,3,1,3,1,2,3,8,high,single,Titan Customers,Phone,test
+434,Mrs.,AMEX,Nursing assistant,female,72,Rural,No,NA,No MotorInsurance,Yes,Level3,0,0,Yes,Senior,Yes,Yes,>50,0,0,0,1,3,1,2,2,5,med,single,Ready Rurals,Phone,test
+444,Mrs.,AMEX,Landscape contractor,female,49,Rural,Yes,16202,Single,Yes,Level2,2,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+449,Mr.,No Card,NA,male,19,Urban,Yes,22048,Bundle,No,0,No HI,No HI,Yes,Business,No,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+450,Mr.,No Card,Risk manager,male,49,Urban,Yes,36931,Single,No,0,No HI,No HI,No,0,No,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+454,Ms.,AMEX,Loading machine operator,female,49,Rural,Yes,19949,Single,Yes,Level3,1,2,No,0,Yes,No,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+460,Mr.,Visa,Process technician,male,19,Urban,Yes,5187,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+463,Mr.,AMEX,Botanist,male,48,Rural,Yes,10215,Single,Yes,Level1,1,3,No,0,Yes,Yes,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+464,Mrs.,Visa,NA,female,20,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,Yes,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+465,Mr.,Visa,NA,male,18,Urban,Yes,22488,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+467,Mrs.,No Card,NA,female,45,Urban,Yes,37734,Bundle,Yes,Level2,1,2,No,0,No,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+468,Dr.,No Card,Labor economist,female,45,Rural,Yes,17282,Single,Yes,Level2,0,2,Yes,Business,No,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+470,Mrs.,AMEX,NA,female,63,Rural,Yes,28781,Single,Yes,Level3,0,0,Yes,Senior,Yes,Yes,>50,medium,1,2,1,3,1,2,3,7,high,single,Titan Customers,Phone,test
+471,Mr.,Visa,Licensed clinical social worker,male,52,Urban,Yes,15969,Single,Yes,Level2,0,3,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+472,Ms.,No Card,Airbrush artist,female,49,Rural,Yes,35473,Bundle,Yes,Level2,0,3,No,0,No,No,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+481,Mr.,AMEX,Machine offbearer,male,74,Rural,Yes,30142,Single,Yes,Level2,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,2,1,2,3,6,med,nuclear family,Titan Customers,Phone,test
+483,Ms.,AMEX,NA,female,62,Urban,No,NA,No MotorInsurance,Yes,Level3,1,0,Yes,Backpacker,Yes,No,>50,0,0,0,1,3,1,1,2,4,med,nuclear family,Ready Rurals,Phone,test
+486,Mr.,No Card,Plating and coating machine operator,male,23,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Premium,No,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+488,Mr.,AMEX,NA,male,68,Urban,Yes,24402,Single,Yes,Level3,1,0,No,0,Yes,No,>50,medium,1,2,1,3,0,0,2,5,med,nuclear family,Titan Customers,Phone,test
+493,Mr.,No Card,Technical education teacher,male,24,Rural,Yes,28318,Bundle,No,0,No HI,No HI,Yes,Business,No,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+499,Mrs.,AMEX,NA,female,55,Urban,Yes,13741,Single,No,0,No HI,No HI,No,0,Yes,Yes,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+502,Mrs.,No Card,Recreation supervisor,female,41,Urban,Yes,29717,Single,Yes,Level2,0,2,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+505,Mr.,Visa,Magnetic resonance (MR) technologist,male,48,Rural,Yes,37717,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+507,Ms.,AMEX,Construction cost estimator,female,50,Urban,Yes,33542,Single,Yes,Level2,1,2,Yes,Standard,Yes,No,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+528,Mr.,Visa,Geropsychologist,male,37,Rural,Yes,34062,Single,No,0,No HI,No HI,Yes,Backpacker,Yes,No,36-50,high,1,3,0,0,1,1,2,4,med,No Health Insurance,Titan Customers,Email,test
+540,Mr.,No Card,File clerk,male,47,Urban,Yes,31429,Single,Yes,Level3,1,3,No,0,No,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,test
+551,Mrs.,Visa,NA,female,47,Urban,Yes,18941,Single,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Titan Customers,Email,test
+555,Mr.,AMEX,NA,male,66,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Business,Yes,No,>50,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Ready Rurals,Phone,test
+556,Mr.,Visa,NA,male,47,Urban,Yes,38180.4,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+567,Mrs.,AMEX,Construction manager,female,48,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,Yes,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+572,Mrs.,Visa,NA,female,48,Urban,Yes,29721,Single,Yes,Level3,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,test
+578,Mrs.,Visa,NA,female,19,Urban,Yes,22805,Bundle,No,0,No HI,No HI,Yes,Business,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+591,Ms.,Visa,Molding coremaking and casting machine operator,female,47,Urban,Yes,34234,Single,Yes,Level3,1,2,No,0,Yes,No,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+593,Mr.,Visa,Funeral manager,male,43,Urban,Yes,29894,Single,Yes,Level3,0,3,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,test
+601,Mr.,AMEX,Respiratory therapist,male,20,Rural,Yes,22489,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+607,Mr.,AMEX,Horse trainer,male,23,Rural,Yes,23054,Bundle,Yes,Level2,1,0,Yes,Business,Yes,No,<=35,medium,1,2,1,2,1,3,3,7,high,nuclear family,Millineum Potentials,Email,test
+616,Mr.,AMEX,Religious activities and education director,male,50,Rural,No,NA,No MotorInsurance,Yes,Level2,1,2,Yes,Backpacker,Yes,Yes,36-50,0,0,0,1,2,1,1,2,3,low,Big family,Ready Rurals,Phone,test
+619,Mr.,AMEX,Clinical laboratory scientist,male,22,Urban,Yes,5005.8,Single,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+621,Mr.,AMEX,Foot doctor,male,47,Urban,No,NA,No MotorInsurance,Yes,Level2,2,3,Yes,Business,Yes,Yes,36-50,0,0,0,1,2,1,3,2,5,med,Big family,Ready Rurals,Phone,test
+625,Ms.,No Card,NA,female,50,Urban,Yes,12822,Single,Yes,Level1,1,2,No,0,No,No,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+637,Mr.,AMEX,Trapper,male,51,Rural,Yes,17495,Single,Yes,Level3,1,3,Yes,Standard,Yes,Yes,>50,medium,1,2,1,3,1,2,3,7,high,Big family,Ready Rurals,Phone,test
+639,Mrs.,AMEX,NA,female,23,Urban,Yes,5086,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+642,Mr.,Visa,Shipping-and-receiving supervisor,male,46,Rural,Yes,16825,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+644,Mrs.,AMEX,NA,female,48,Urban,Yes,33573,Single,Yes,Level2,1,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+646,Ms.,AMEX,Medical record coder,female,50,Urban,No,NA,No MotorInsurance,Yes,Level2,2,2,Yes,Business,Yes,No,36-50,0,0,0,1,2,1,3,2,5,med,Big family,Ready Rurals,Phone,test
+648,Mr.,No Card,Sociocultural anthropologist,male,19,Urban,Yes,5005.8,Single,Yes,Level2,0,0,No,0,No,No,<=35,low,1,1,1,2,0,0,2,3,low,single,Millineum Potentials,SMS,test
+652,Mrs.,AMEX,NA,female,22,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,Yes,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+653,Mr.,AMEX,Product development manager,male,18,Urban,No,NA,No MotorInsurance,Yes,Level2,0,0,No,0,Yes,No,<=35,0,0,0,1,2,0,0,1,2,low,single,Millineum Potentials,SMS,test
+660,Mr.,AMEX,Costume designer,male,43,Urban,Yes,33648,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+663,Mr.,Visa,Golf course architect,male,21,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+666,Ms.,AMEX,CPA,female,49,Urban,Yes,36405,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+670,Mr.,AMEX,Convention services manager,male,48,Urban,Yes,38180.4,Single,Yes,Level3,1,3,No,0,Yes,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+671,Mrs.,AMEX,NA,female,47,Urban,Yes,18613,Single,Yes,Level2,2,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+676,Mrs.,AMEX,Closed captioner,female,51,Rural,Yes,12320,Single,No,0,No HI,No HI,No,0,Yes,Yes,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+681,Mrs.,AMEX,NA,female,21,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,No,0,Yes,Yes,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+683,Mrs.,AMEX,Loan underwriter,female,51,Rural,Yes,17953,Bundle,Yes,Level2,2,2,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+688,Ms.,No Card,NA,female,49,Rural,Yes,20485,Single,Yes,Level3,1,3,No,0,No,No,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+689,Mr.,AMEX,NA,male,45,Rural,Yes,10654,Single,Yes,Level3,1,3,No,0,Yes,Yes,36-50,low,1,1,1,3,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+695,Mr.,Visa,Software engineer,male,77,Rural,Yes,28979,Single,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,single,Titan Customers,Phone,test
+705,Mrs.,AMEX,Holistic nurse,female,46,Rural,Yes,19207,Single,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+709,Ms.,Visa,Computer operator,female,22,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+716,Mr.,AMEX,NA,male,18,Rural,Yes,5188,Bundle,Yes,Level1,0,0,Yes,Backpacker,Yes,No,<=35,low,1,1,1,1,1,1,3,3,low,single,Millineum Potentials,Email,test
+718,Mr.,Visa,Purchasing technician,male,50,Rural,Yes,34756,Single,Yes,Level3,1,3,No,0,Yes,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+721,Mr.,Visa,Information security specialist,male,18,Rural,Yes,5005.8,Single,Yes,Level2,0,0,Yes,Backpacker,Yes,No,<=35,low,1,1,1,2,1,1,3,4,med,single,Millineum Potentials,Email,test
+734,Mrs.,No Card,NA,female,46,Urban,Yes,35955,Single,Yes,Level1,0,2,No,0,No,Yes,36-50,high,1,3,1,1,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+737,Mr.,Visa,Automotive service technician,male,52,Urban,Yes,13093,Single,Yes,Level2,2,2,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+738,Ms.,AMEX,Conference planner,female,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+739,Ms.,AMEX,Machinery maintenance mechanic,female,68,Rural,Yes,23580,Bundle,Yes,Level2,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,2,1,2,3,6,med,nuclear family,Titan Customers,Phone,test
+740,Ms.,No Card,Groundskeeper,female,22,Urban,Yes,28256,Bundle,No,0,No HI,No HI,Yes,Business,No,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+744,Mrs.,Visa,NA,female,51,Rural,Yes,14733,Single,No,0,No HI,No HI,No,0,Yes,Yes,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+751,Mr.,Visa,NA,male,51,Rural,Yes,34607,Single,Yes,Level1,1,2,No,0,Yes,Yes,>50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+752,Mr.,Visa,Soil conservationist,male,21,Urban,Yes,28341,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+758,Mr.,AMEX,NA,male,50,Urban,No,NA,No MotorInsurance,Yes,Level2,1,3,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+759,Ms.,Visa,Historian,female,20,Rural,Yes,25741,Bundle,Yes,Level2,2,0,Yes,Business,Yes,No,<=35,medium,1,2,1,2,1,3,3,7,high,nuclear family,Millineum Potentials,Email,test
+764,Mr.,Visa,Office administrative assistant,male,22,Urban,Yes,21876,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+765,Mr.,Visa,Vending machine servicer,male,45,Urban,Yes,19852,Bundle,No,0,No HI,No HI,Yes,Standard,Yes,No,36-50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Titan Customers,Email,test
+774,Ms.,AMEX,Pile driver operator,female,45,Rural,No,NA,No MotorInsurance,Yes,Level2,2,2,No,0,Yes,No,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+776,Mr.,No Card,Chairperson of the board,male,49,Rural,Yes,16535,Single,Yes,Level2,1,1,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Phone,test
+782,Mr.,No Card,Hand packer,male,20,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,No,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+783,Mrs.,Visa,Video camera operator,female,50,Rural,Yes,13951,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+785,Mr.,Visa,NA,male,53,Urban,Yes,38180.4,Single,Yes,Level3,1,2,Yes,Standard,Yes,Yes,>50,high,1,3,1,3,1,2,3,8,high,Big family,Titan Customers,Email,test
+786,Ms.,Visa,Custodial worker,female,46,Urban,Yes,37077,Single,Yes,Level2,0,2,Yes,Premium,Yes,No,36-50,high,1,3,1,2,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+792,Mr.,AMEX,NA,male,22,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+800,Mr.,AMEX,Typist,male,43,Urban,Yes,38180.4,Single,Yes,Level2,0,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+804,Ms.,No Card,NA,female,66,Rural,Yes,30537,Single,Yes,Level2,1,0,Yes,Business,No,No,>50,medium,1,2,1,2,1,3,3,7,high,nuclear family,Titan Customers,Phone,test
+805,Mr.,AMEX,NA,male,52,Rural,Yes,20408,Single,Yes,Level2,1,2,Yes,Business,Yes,Yes,>50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Phone,test
+806,Mr.,AMEX,Aircraft surfaces assembler,male,50,Rural,Yes,17779,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+814,Mr.,AMEX,NA,male,54,Rural,Yes,16290,Single,No,0,No HI,No HI,No,0,Yes,No,>50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+818,Ms.,Visa,Pedicurist,female,65,Rural,Yes,28232,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,>50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Ready Rurals,Phone,test
+821,Mrs.,Visa,Camp director,female,53,Rural,Yes,12785,Single,Yes,Level2,1,1,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,nuclear family,Ready Rurals,Phone,test
+839,Ms.,No Card,NA,female,47,Urban,Yes,38180.4,Single,No,0,No HI,No HI,Yes,Business,No,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+845,Mr.,Visa,Private household cook,male,55,Urban,Yes,33553,Single,No,0,No HI,No HI,No,0,Yes,No,>50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+847,Mr.,Visa,Ironworker,male,51,Rural,Yes,17664,Single,Yes,Level2,1,3,Yes,Standard,Yes,Yes,>50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+857,Mr.,Visa,General manager,male,23,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+874,Mr.,Visa,Education administrator,male,45,Urban,Yes,33151,Single,Yes,Level2,0,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+878,Mr.,AMEX,Structural engineer,male,21,Urban,Yes,21864,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+891,Mr.,Visa,EEO officer,male,49,Rural,No,NA,No MotorInsurance,Yes,Level2,1,3,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+895,Mrs.,Visa,NA,female,51,Rural,Yes,29300,Single,Yes,Level1,2,2,No,0,Yes,Yes,>50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+896,Mr.,Visa,Ski patrol,male,57,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,>50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+900,Ms.,AMEX,NA,female,49,Rural,Yes,14601,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+911,Mr.,Visa,Health care interpreter,male,22,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+914,Ms.,Visa,Livestock farmer,female,53,Urban,Yes,13273,Single,Yes,Level3,1,3,No,0,Yes,No,>50,low,1,1,1,3,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+918,Ms.,Visa,Personnel consultant,female,19,Urban,Yes,21688,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+920,Mr.,Visa,Job service specialist,male,61,Urban,Yes,28655,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,>50,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Titan Customers,Phone,test
+925,Mrs.,AMEX,NA,female,46,Urban,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+949,Mr.,No Card,Technical education teacher,male,58,Urban,Yes,21132,Single,Yes,Level2,0,0,Yes,Business,No,No,>50,medium,1,2,1,2,1,3,3,7,high,single,Titan Customers,Phone,test
+975,Mrs.,AMEX,NA,female,21,Rural,Yes,22644,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+978,Ms.,No Card,Clinical chemistry technologist,female,45,Urban,Yes,35423,Single,Yes,Level3,1,2,Yes,Premium,No,No,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+981,Mrs.,Visa,Data processing equipment repairer,female,64,Rural,No,NA,No MotorInsurance,Yes,Level2,1,0,Yes,Senior,Yes,Yes,>50,0,0,0,1,2,1,2,2,4,med,nuclear family,Ready Rurals,Phone,test
+988,Ms.,AMEX,Scraper operator,female,46,Urban,No,NA,No MotorInsurance,Yes,Level3,1,2,Yes,Standard,Yes,No,36-50,0,0,0,1,3,1,2,2,5,med,Big family,Ready Rurals,Email,test
+989,Ms.,AMEX,Cooling and freezing equipment operator,female,69,Urban,Yes,23025,Single,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,single,Titan Customers,Phone,test
+992,Mr.,Visa,Lead abatement worker,male,19,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+993,Mrs.,Visa,Executive administrative assistant,female,22,Rural,Yes,14920,Bundle,Yes,Level1,0,0,No,0,Yes,Yes,<=35,low,1,1,1,1,0,0,2,2,low,single,Millineum Potentials,Email,test
+1003,Mrs.,AMEX,Grinding and polishing worker,female,20,Rural,Yes,28514,Single,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+1019,Mr.,Visa,Systems architect,male,52,Urban,Yes,37169,Single,No,0,No HI,No HI,No,0,Yes,No,>50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+1028,Mr.,Visa,Credit manager,male,50,Rural,Yes,19627,Single,Yes,Level2,2,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+1034,Ms.,Visa,Heating air-conditioning and refrigeration engineer,female,71,Rural,Yes,21554,Bundle,Yes,Level2,1,0,No,0,Yes,No,>50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Phone,test
+1037,Mrs.,AMEX,NA,female,20,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+1042,Ms.,Visa,Marking and identification printing machine operator,female,45,Rural,Yes,11591,Single,Yes,Level3,1,3,No,0,Yes,No,36-50,low,1,1,1,3,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+1046,Ms.,Visa,Publicity writer,female,52,Urban,Yes,18380,Single,No,0,No HI,No HI,No,0,Yes,No,>50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+1070,Mr.,No Card,Extruding and forming machine operator,male,49,Rural,Yes,10075,Single,Yes,Level1,0,3,No,0,No,Yes,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+1079,Mr.,Visa,NA,male,72,Rural,Yes,28346,Single,Yes,Level2,0,0,Yes,Senior,Yes,No,>50,medium,1,2,1,2,1,2,3,6,med,single,Titan Customers,Phone,test
+1082,Mr.,No Card,Front-end mechanic,male,20,Urban,Yes,30357,Bundle,No,0,No HI,No HI,Yes,Standard,No,No,<=35,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Millineum Potentials,Email,test
+1084,Mr.,Visa,Tester,male,47,Urban,Yes,15005,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1101,Mr.,Visa,Merchant marine officer,male,47,Rural,Yes,10847,Single,Yes,Level2,0,3,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1106,Mrs.,AMEX,Professional athlete,female,48,Rural,Yes,18233,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1107,Mr.,AMEX,NA,male,19,Rural,Yes,15505,Bundle,Yes,Level1,1,0,Yes,Standard,Yes,No,<=35,medium,1,2,1,1,1,2,3,5,med,nuclear family,Millineum Potentials,Email,test
+1113,Mr.,No Card,NA,male,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,No,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+1120,Mr.,AMEX,Engineering geologist,male,18,Rural,Yes,21818,Bundle,Yes,Level1,2,0,Yes,Business,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,nuclear family,Millineum Potentials,Email,test
+1126,Ms.,AMEX,NA,female,18,Urban,Yes,5328,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+1131,Mrs.,AMEX,Camera operator,female,49,Rural,Yes,18790,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+1134,Mr.,Visa,NA,male,45,Rural,No,NA,No MotorInsurance,Yes,Level2,2,2,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+1135,Mr.,AMEX,Shipping clerk,male,48,Urban,Yes,30025,Bundle,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+1139,Mr.,No Card,Beauty care specialist,male,47,Rural,Yes,18455,Single,No,0,No HI,No HI,Yes,Standard,No,No,36-50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Ready Rurals,Phone,test
+1142,Mrs.,AMEX,Quality assurance inspector,female,41,Urban,Yes,38180.4,Single,No,0,No HI,No HI,Yes,Business,Yes,Yes,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+1147,Ms.,No Card,Press secretary,female,65,Rural,Yes,25673,Single,Yes,Level1,1,0,No,0,No,No,>50,medium,1,2,1,1,0,0,2,3,low,nuclear family,Titan Customers,Phone,test
+1158,Mrs.,AMEX,Motor coach driver,female,53,Urban,No,NA,No MotorInsurance,Yes,Level2,0,2,No,0,Yes,Yes,>50,0,0,0,1,2,0,0,1,2,low,nuclear family,Ready Rurals,Phone,test
+1166,Ms.,AMEX,Sales worker,female,46,Urban,No,NA,No MotorInsurance,Yes,Level2,0,2,No,0,Yes,No,36-50,0,0,0,1,2,0,0,1,2,low,nuclear family,Ready Rurals,Phone,test
+1169,Ms.,AMEX,Ambulatory care nurse,female,61,Urban,Yes,27725,Single,Yes,Level3,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+1170,Mr.,AMEX,Apartment house manager,male,52,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,>50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+1172,Mrs.,Visa,NA,female,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,Yes,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+1189,Mr.,AMEX,NA,male,44,Urban,Yes,28934,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+1203,Mr.,AMEX,Microbiologist,male,45,Rural,Yes,32975,Single,Yes,Level2,1,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1207,Mr.,AMEX,Tower controller,male,22,Urban,Yes,24658,Bundle,Yes,Level1,0,0,No,0,Yes,No,<=35,medium,1,2,1,1,0,0,2,3,low,single,Millineum Potentials,Email,test
+1209,Ms.,Visa,Locker room attendant,female,45,Rural,Yes,11580,Bundle,Yes,Level2,2,2,No,0,Yes,No,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1214,Mr.,No Card,NA,male,53,Rural,Yes,19569,Single,Yes,Level2,1,2,No,0,No,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+1217,Mr.,Visa,NA,male,52,Urban,Yes,33304,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,>50,high,1,3,0,0,1,2,2,5,med,No Health Insurance,Titan Customers,Email,test
+1225,Ms.,Visa,Building superintendent,female,20,Urban,Yes,21541,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+1228,Ms.,Visa,Account collector,female,19,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+1237,Mr.,AMEX,Asbestos abatement worker,male,44,Rural,Yes,12583,Single,Yes,Level3,2,2,No,0,Yes,Yes,36-50,low,1,1,1,3,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+1238,Ms.,AMEX,Osteopathic doctor,female,72,Rural,Yes,21624,Bundle,Yes,Level3,0,0,No,0,Yes,No,>50,medium,1,2,1,3,0,0,2,5,med,single,Titan Customers,Phone,test
+1242,Mr.,Visa,Platemaker,male,45,Urban,Yes,38180.4,Single,Yes,Level2,1,3,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+1243,Ms.,Visa,Addictions nurse,female,18,Urban,Yes,28121,Single,Yes,Level1,1,0,Yes,Backpacker,Yes,No,<=35,medium,1,2,1,1,1,1,3,4,med,nuclear family,Millineum Potentials,Email,test
+1244,Ms.,No Card,Manufacturing optician,female,56,Urban,Yes,33142,Single,Yes,Level3,0,2,No,0,No,No,>50,high,1,3,1,3,0,0,2,6,med,nuclear family,Titan Customers,Email,test
+1247,Mrs.,AMEX,Multiple machine tool tender,female,19,Urban,No,NA,No MotorInsurance,Yes,Level1,0,0,No,0,Yes,Yes,<=35,0,0,0,1,1,0,0,1,1,low,single,Millineum Potentials,Email,test
+1253,Mrs.,No Card,Electronic home entertainment equipment installer,female,50,Rural,Yes,11874,Single,Yes,Level2,2,2,Yes,Business,No,Yes,36-50,low,1,1,1,2,1,3,3,6,med,Big family,Ready Rurals,Phone,test
+1259,Ms.,No Card,NA,female,22,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,No,0,No,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+1274,Ms.,AMEX,Museum technician,female,22,Urban,Yes,5059,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+1291,Ms.,Visa,NA,female,21,Urban,Yes,5063,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+1302,Mr.,Visa,Teller supervisor,male,20,Urban,Yes,22931,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+1304,Mrs.,Visa,Physician assistant,female,24,Urban,Yes,22676,Bundle,No,0,No HI,No HI,Yes,Business,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+1305,Ms.,AMEX,NA,female,70,Rural,Yes,17142,Single,Yes,Level2,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,2,1,2,3,6,med,nuclear family,Titan Customers,Phone,test
+1309,Mr.,AMEX,Bill and account collector,male,67,Rural,No,NA,No MotorInsurance,Yes,Level2,1,0,Yes,Senior,Yes,No,>50,0,0,0,1,2,1,2,2,4,med,nuclear family,Ready Rurals,Phone,test
+1313,Mrs.,Visa,NA,female,66,Urban,Yes,25649,Single,Yes,Level1,1,0,Yes,Business,Yes,Yes,>50,medium,1,2,1,1,1,3,3,6,med,nuclear family,Titan Customers,Phone,test
+1315,Mr.,No Card,Immunology technologist,male,50,Rural,Yes,22913,Single,Yes,Level2,1,2,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+1317,Mrs.,AMEX,NA,female,65,Rural,Yes,27562,Bundle,No,0,No HI,No HI,Yes,Standard,Yes,Yes,>50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Ready Rurals,Phone,test
+1319,Mr.,No Card,NA,male,48,Urban,Yes,31902,Single,Yes,Level2,1,3,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+1321,Dr.,Visa,NA,female,47,Urban,Yes,33269,Single,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+1322,Ms.,AMEX,NA,female,23,Rural,Yes,25607,Bundle,Yes,Level1,1,0,Yes,Premium,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,nuclear family,Millineum Potentials,Email,test
+1323,Mrs.,Visa,NA,female,45,Rural,Yes,30636,Single,Yes,Level3,0,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Ready Rurals,Phone,test
+1324,Mr.,Visa,NA,male,49,Urban,No,NA,No MotorInsurance,Yes,Level1,2,3,No,0,Yes,Yes,36-50,0,0,0,1,1,0,0,1,1,low,Big family,Ready Rurals,Phone,test
+1325,Ms.,No Card,Public relations representative,female,46,Rural,No,NA,No MotorInsurance,Yes,Level3,1,2,No,0,No,No,36-50,0,0,0,1,3,0,0,1,3,low,Big family,Ready Rurals,Phone,test
+1331,Mr.,No Card,Sculptor,male,49,Rural,Yes,17580,Single,No,0,No HI,No HI,No,0,No,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+1332,Mrs.,AMEX,Airline steward,female,51,Rural,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,Yes,>50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+1342,Mr.,Visa,NA,male,47,Urban,Yes,15831,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+1343,Mr.,AMEX,Local truck driver,male,47,Urban,Yes,35215,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+1345,Mr.,AMEX,NA,male,49,Urban,Yes,32237,Single,Yes,Level3,1,3,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,3,1,2,3,7,high,Big family,Titan Customers,Email,test
+1352,Mr.,Visa,Condominium association manager,male,42,Urban,Yes,38180.4,Single,Yes,Level2,1,2,Yes,Premium,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1360,Mrs.,AMEX,NA,female,49,Rural,Yes,12926,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1361,Ms.,AMEX,Surgical technician,female,20,Rural,Yes,5063,Single,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,low,1,1,1,1,1,3,3,5,med,single,Millineum Potentials,Email,test
+1366,Mr.,Visa,Encoder,male,20,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+1369,Mr.,AMEX,PBX repairer,male,50,Urban,Yes,13615,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1376,Mrs.,No Card,Biomedical engineer,female,51,Rural,No,NA,No MotorInsurance,Yes,Level1,2,2,No,0,No,Yes,>50,0,0,0,1,1,0,0,1,1,low,Big family,Ready Rurals,Phone,test
+1383,Ms.,No Card,Camp counselor,female,49,Urban,Yes,38180.4,Bundle,Yes,Level2,0,2,Yes,Business,No,No,36-50,high,1,3,1,2,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+1387,Ms.,No Card,Control technician,female,44,Urban,Yes,38180.4,Bundle,Yes,Level1,1,2,Yes,Business,No,No,36-50,high,1,3,1,1,1,3,3,7,high,Big family,Titan Customers,Email,test
+1396,Mr.,Visa,Development specialist,male,51,Rural,Yes,17422,Single,Yes,Level1,1,3,No,0,Yes,Yes,>50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1398,Ms.,Visa,NA,female,48,Rural,Yes,11498,Single,Yes,Level2,0,2,No,0,Yes,No,36-50,low,1,1,1,2,0,0,2,3,low,nuclear family,Ready Rurals,Phone,test
+1400,Mr.,AMEX,Bricklayer,male,46,Urban,Yes,30826,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Titan Customers,Email,test
+1407,Mrs.,Visa,Appraiser,female,47,Urban,Yes,37294,Bundle,Yes,Level2,1,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1426,Ms.,AMEX,NA,female,46,Urban,No,NA,No MotorInsurance,Yes,Level3,2,3,Yes,Business,Yes,No,36-50,0,0,0,1,3,1,3,2,6,med,Big family,Ready Rurals,Email,test
+1429,Ms.,No Card,NA,female,21,Urban,Yes,5166,Bundle,No,0,No HI,No HI,Yes,Premium,No,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+1430,Mr.,Visa,Dietetic technician,male,49,Urban,Yes,37216,Single,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1439,Mr.,Visa,Mobile heavy equipment mechanic,male,24,Urban,Yes,26471,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+1441,Mr.,AMEX,NA,male,22,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+1449,Mr.,No Card,Information architect librarian,male,42,Urban,Yes,38180.4,Single,Yes,Level2,1,2,Yes,Business,No,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1450,Mr.,Visa,NA,male,51,Rural,Yes,20364,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,>50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Ready Rurals,Phone,test
+1453,Ms.,Visa,Locomotive engineer,female,47,Urban,Yes,32005,Single,Yes,Level2,1,3,Yes,Business,Yes,No,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+1462,Mr.,Visa,Operations research analyst,male,46,Urban,Yes,32133,Single,Yes,Level1,2,3,Yes,Premium,Yes,Yes,36-50,medium,1,2,1,1,1,3,3,6,med,Big family,Titan Customers,Email,test
+1464,Mrs.,AMEX,Bodyguard,female,18,Urban,Yes,24564,Bundle,Yes,Level1,1,0,Yes,Business,Yes,Yes,<=35,medium,1,2,1,1,1,3,3,6,med,nuclear family,Millineum Potentials,Email,test
+1465,Ms.,AMEX,Technical sales manager,female,52,Urban,Yes,31301,Single,Yes,Level2,0,2,Yes,Standard,Yes,No,>50,medium,1,2,1,2,1,2,3,6,med,nuclear family,Titan Customers,Email,test
+1469,Mr.,AMEX,NA,male,19,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+1471,Mr.,Visa,Weather forecaster,male,18,Urban,Yes,38180.4,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,high,1,3,0,0,1,1,2,4,med,No Health Insurance,Millineum Potentials,Email,test
+1474,Mr.,Visa,Marine oiler,male,49,Urban,No,NA,No MotorInsurance,Yes,Level3,1,3,Yes,Business,Yes,Yes,36-50,0,0,0,1,3,1,3,2,6,med,Big family,Ready Rurals,Email,test
+1476,Mrs.,Visa,NA,female,45,Urban,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+1479,Mr.,Visa,NA,male,46,Urban,Yes,34871,Single,Yes,Level2,0,3,Yes,Premium,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1480,Ms.,Visa,NA,female,66,Rural,Yes,22815,Bundle,Yes,Level2,2,0,No,0,Yes,No,>50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Phone,test
+1490,Mr.,No Card,Home care aide,male,48,Rural,Yes,35930,Bundle,Yes,Level1,0,3,Yes,Standard,No,Yes,36-50,high,1,3,1,1,1,2,3,6,med,Big family,Titan Customers,Email,test
+1492,Ms.,AMEX,NA,female,49,Urban,Yes,36301,Single,Yes,Level2,2,2,Yes,Business,Yes,No,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1495,Mr.,Visa,Physicist,male,18,Rural,Yes,25095,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+1506,Ms.,AMEX,NA,female,21,Rural,Yes,22169,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+1517,Ms.,AMEX,Food technologist,female,41,Urban,No,NA,No MotorInsurance,Yes,Level3,1,2,No,0,Yes,No,36-50,0,0,0,1,3,0,0,1,3,low,Big family,Ready Rurals,Email,test
+1518,Mrs.,No Card,U.S. deputy marshal,female,53,Rural,Yes,17176,Single,Yes,Level3,1,3,No,0,No,Yes,>50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+1520,Mrs.,Visa,Personnel officer,female,20,Urban,Yes,26268,Bundle,Yes,Level1,0,0,Yes,Business,Yes,Yes,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+1523,Ms.,Visa,Member services counselor,female,48,Rural,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,No,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+1524,Mr.,Visa,Manifold binding worker,male,49,Urban,Yes,25412,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+1528,Mrs.,No Card,Health services manager,female,47,Urban,Yes,34871,Single,No,0,No HI,No HI,No,0,No,Yes,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+1537,Mrs.,Visa,NA,female,20,Rural,Yes,19622,Bundle,Yes,Level1,1,0,No,0,Yes,Yes,<=35,medium,1,2,1,1,0,0,2,3,low,nuclear family,Millineum Potentials,Email,test
+1539,Mr.,Visa,Water transportation master,male,45,Urban,Yes,32717,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,36-50,high,1,3,0,0,1,2,2,5,med,No Health Insurance,Titan Customers,Email,test
+1541,Mrs.,Visa,Sociocultural anthropologist,female,45,Urban,Yes,30492,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+1543,Mrs.,AMEX,NA,female,49,Rural,Yes,10889,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,nuclear family,Ready Rurals,Phone,test
+1552,Ms.,Visa,X-ray technician,female,66,Urban,No,NA,No MotorInsurance,Yes,Level3,0,0,No,0,Yes,No,>50,0,0,0,1,3,0,0,1,3,low,single,Ready Rurals,Phone,test
+1554,Mr.,AMEX,NA,male,49,Urban,No,NA,No MotorInsurance,Yes,Level3,1,3,Yes,Business,Yes,Yes,36-50,0,0,0,1,3,1,3,2,6,med,Big family,Ready Rurals,Email,test
+1557,Mrs.,No Card,NA,female,50,Rural,Yes,16009,Single,Yes,Level2,1,2,Yes,Standard,No,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+1575,Ms.,Visa,NA,female,18,Urban,Yes,5302,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+1582,Mr.,AMEX,NA,male,53,Urban,Yes,31734,Single,Yes,Level2,1,3,Yes,Standard,Yes,Yes,>50,medium,1,2,1,2,1,2,3,6,med,Big family,Titan Customers,Email,test
+1588,Dr.,No Card,Occupational analyst,male,48,Urban,Yes,30341,Bundle,Yes,Level2,1,3,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+1590,Mr.,AMEX,Commercial and industrial designer,male,51,Rural,Yes,37654,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,>50,high,1,3,0,0,1,2,2,5,med,No Health Insurance,Titan Customers,Email,test
+1594,Mr.,AMEX,Photographic spotter,male,52,Rural,Yes,12828,Single,Yes,Level2,2,3,Yes,Backpacker,Yes,Yes,>50,low,1,1,1,2,1,1,3,4,med,Big family,Ready Rurals,Phone,test
+1596,Mr.,AMEX,NA,male,51,Urban,Yes,32043,Single,Yes,Level2,0,3,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+1597,Mrs.,Visa,Referee,female,19,Urban,Yes,28600,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+1602,Mrs.,AMEX,Railroad engineer,female,43,Rural,No,NA,No MotorInsurance,Yes,Level3,0,3,Yes,Standard,Yes,Yes,36-50,0,0,0,1,3,1,2,2,5,med,Big family,Ready Rurals,Phone,test
+1607,Mrs.,Visa,Financial consultant,female,50,Rural,Yes,18659,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+1614,Mr.,Visa,NA,male,56,Urban,Yes,14398,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,>50,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Ready Rurals,Phone,test
+1616,Ms.,AMEX,Hazardous materials removal worker,female,46,Rural,No,NA,No MotorInsurance,Yes,Level2,2,2,Yes,Business,Yes,No,36-50,0,0,0,1,2,1,3,2,5,med,Big family,Ready Rurals,Phone,test
+1618,Mrs.,AMEX,Training coordinator,female,51,Rural,Yes,17594,Single,Yes,Level3,1,2,No,0,Yes,Yes,>50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+1624,Mr.,AMEX,NA,male,18,Urban,No,NA,No MotorInsurance,Yes,Level1,2,0,Yes,Backpacker,Yes,No,<=35,0,0,0,1,1,1,1,2,2,low,nuclear family,Millineum Potentials,Email,test
+1628,Ms.,AMEX,NA,female,49,Rural,Yes,9880,Single,Yes,Level1,2,2,No,0,Yes,No,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+1629,Ms.,Visa,NA,female,21,Urban,Yes,5144,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+1630,Mr.,Visa,Employee development manager,male,44,Rural,No,NA,No MotorInsurance,Yes,Level2,1,2,Yes,Business,Yes,Yes,36-50,0,0,0,1,2,1,3,2,5,med,Big family,Ready Rurals,Phone,test
+1632,Mrs.,AMEX,Infusion nurse,female,48,Urban,Yes,27337,Single,Yes,Level3,0,2,Yes,Premium,Yes,Yes,36-50,medium,1,2,1,3,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+1637,Mrs.,Visa,NA,female,44,Urban,Yes,28959,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+1638,Ms.,Visa,Textile machine operator,female,40,Urban,Yes,31110,Single,Yes,Level2,1,2,No,0,Yes,No,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+1641,Mr.,No Card,NA,male,54,Rural,Yes,16057,Single,Yes,Level2,0,2,No,0,No,Yes,>50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+1644,Mrs.,AMEX,NA,female,47,Urban,Yes,35646,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+1645,Ms.,Visa,Coder,female,50,Urban,Yes,35207,Single,Yes,Level2,1,3,Yes,Business,Yes,No,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1650,Mr.,AMEX,NA,male,47,Urban,Yes,33351,Single,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1653,Mr.,Visa,NA,male,68,Rural,Yes,26851,Bundle,Yes,Level3,1,0,Yes,Standard,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+1654,Mr.,AMEX,NA,male,19,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+1668,Mrs.,Visa,NA,female,49,Urban,Yes,38180.4,Single,Yes,Level1,1,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,1,1,2,3,6,med,Big family,Titan Customers,Email,test
+1682,Mrs.,AMEX,NA,female,43,Urban,Yes,31689,Single,Yes,Level2,2,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Titan Customers,Email,test
+1685,Mr.,Visa,Respiratory care practitioner,male,50,Rural,Yes,17295,Single,Yes,Level3,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+1686,Ms.,Visa,NA,female,20,Urban,Yes,5220,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+1687,Mr.,AMEX,NA,male,48,Urban,Yes,33746,Single,Yes,Level2,0,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,nuclear family,Titan Customers,Email,test
+1695,Ms.,Visa,Human resources supervisor,female,20,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Standard,Yes,No,<=35,0,0,0,0,0,1,2,1,2,low,No Health Insurance,Millineum Potentials,SMS,test
+1698,Mrs.,Visa,Purchasing clerk,female,72,Rural,Yes,25113,Single,Yes,Level3,1,0,Yes,Senior,Yes,Yes,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+1699,Ms.,No Card,NA,female,54,Rural,Yes,13229,Bundle,Yes,Level2,2,3,No,0,No,No,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1701,Mr.,AMEX,Merchandise manager,male,51,Rural,Yes,34282,Single,No,0,No HI,No HI,Yes,Business,Yes,No,>50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+1703,Mrs.,AMEX,NA,female,47,Rural,Yes,13393,Single,Yes,Level2,2,3,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1713,Mr.,No Card,Staff manager,male,76,Urban,No,NA,No MotorInsurance,Yes,Level3,2,0,Yes,Senior,No,No,>50,0,0,0,1,3,1,2,2,5,med,nuclear family,Ready Rurals,Phone,test
+1719,Mr.,AMEX,NA,male,52,Rural,Yes,15858,Single,Yes,Level2,0,2,Yes,Standard,Yes,Yes,>50,medium,1,2,1,2,1,2,3,6,med,nuclear family,Ready Rurals,Phone,test
+1728,Mr.,Visa,Public relations representative,male,22,Rural,Yes,5180,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+1730,Mrs.,AMEX,NA,female,44,Rural,Yes,30058,Single,Yes,Level2,1,3,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+1734,Ms.,AMEX,NA,female,20,Urban,Yes,28448,Bundle,Yes,Level3,0,0,Yes,Premium,Yes,No,<=35,medium,1,2,1,3,1,3,3,8,high,single,Millineum Potentials,Email,test
+1736,Ms.,No Card,NA,female,19,Urban,Yes,23517,Bundle,No,0,No HI,No HI,Yes,Backpacker,No,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+1745,Mrs.,AMEX,NA,female,19,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+1746,Mrs.,Visa,NA,female,19,Rural,Yes,24722,Bundle,Yes,Level1,1,0,Yes,Premium,Yes,Yes,<=35,medium,1,2,1,1,1,3,3,6,med,nuclear family,Millineum Potentials,Email,test
+1759,Mr.,AMEX,NA,male,42,Urban,Yes,33100,Single,Yes,Level3,1,2,No,0,Yes,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+1762,Ms.,Visa,Livestock farmer,female,54,Rural,Yes,30870,Single,Yes,Level2,1,2,Yes,Backpacker,Yes,No,>50,medium,1,2,1,2,1,1,3,5,med,Big family,Titan Customers,Phone,test
+1766,Mr.,AMEX,Fish cleaner,male,70,Urban,Yes,30297,Single,No,0,No HI,No HI,Yes,Senior,Yes,No,>50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Titan Customers,Phone,test
+1768,Mr.,Visa,NA,male,19,Urban,Yes,5005.8,Bundle,Yes,Level1,0,0,Yes,Backpacker,Yes,No,<=35,low,1,1,1,1,1,1,3,3,low,single,Millineum Potentials,SMS,test
+1770,Mr.,No Card,Cost/investment recovery technician,male,50,Rural,Yes,15668,Single,Yes,Level1,1,2,No,0,No,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1787,Mr.,AMEX,General and operations manager,male,44,Rural,Yes,13109,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,nuclear family,Ready Rurals,Phone,test
+1793,Mr.,Visa,NA,male,49,Rural,Yes,11721,Single,Yes,Level1,2,3,No,0,Yes,Yes,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+1796,Mr.,AMEX,NA,male,66,Urban,Yes,26423,Single,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,single,Titan Customers,Phone,test
+1805,Mrs.,Visa,NA,female,55,Urban,Yes,38180.4,Single,Yes,Level2,1,2,Yes,Standard,Yes,Yes,>50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+1810,Ms.,AMEX,Elevator repairer,female,77,Urban,No,NA,No MotorInsurance,Yes,Level1,1,0,Yes,Senior,Yes,No,>50,0,0,0,1,1,1,2,2,3,low,nuclear family,Ready Rurals,Phone,test
+1812,Mr.,Visa,Mineralogist,male,47,Urban,Yes,36384,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+1814,Mr.,AMEX,Intructional coordinator,male,23,Urban,Yes,25374,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+1818,Ms.,AMEX,Midwife,female,43,Rural,Yes,38180.4,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+1828,Ms.,AMEX,NA,female,52,Urban,Yes,34455,Single,Yes,Level1,0,2,Yes,Business,Yes,No,>50,high,1,3,1,1,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+1844,Dr.,Visa,NA,male,18,Urban,Yes,27327,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+1855,Mr.,AMEX,Podiatric doctor,male,64,Urban,Yes,28278,Single,Yes,Level3,1,0,No,0,Yes,No,>50,medium,1,2,1,3,0,0,2,5,med,nuclear family,Titan Customers,Phone,test
+1856,Mr.,AMEX,Recruiting manager,male,47,Rural,Yes,17032,Single,Yes,Level1,2,2,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1862,Mrs.,AMEX,Histology technician,female,49,Rural,Yes,10064,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+1864,Mr.,No Card,Barber,male,50,Urban,Yes,14719,Single,No,0,No HI,No HI,No,0,No,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+1866,Mrs.,AMEX,Macromolecular chemist,female,52,Rural,Yes,18018,Single,No,0,No HI,No HI,No,0,Yes,Yes,>50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+1884,Mrs.,No Card,Highway patrol officer,female,50,Rural,No,NA,No MotorInsurance,Yes,Level1,1,2,Yes,Business,No,Yes,36-50,0,0,0,1,1,1,3,2,4,med,Big family,Ready Rurals,Phone,test
+1888,Mr.,No Card,Museum director,male,47,Urban,Yes,32508,Single,Yes,Level2,1,2,Yes,Premium,No,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+1895,Mr.,Visa,Internet developer,male,20,Urban,Yes,20176,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+1897,Mrs.,Visa,Biochemist,female,49,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,Yes,36-50,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Ready Rurals,Phone,test
+1898,Ms.,Visa,Data entry worker,female,46,Urban,Yes,30931,Single,Yes,Level3,1,3,Yes,Business,Yes,No,36-50,medium,1,2,1,3,1,3,3,8,high,Big family,Titan Customers,Email,test
+1902,Mrs.,No Card,NA,female,50,Urban,Yes,30327,Single,Yes,Level2,0,2,Yes,Business,No,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+1905,Mr.,Visa,Water resources engineer,male,46,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,No,36-50,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Ready Rurals,Email,test
+1906,Mr.,No Card,NA,male,46,Rural,No,NA,No MotorInsurance,Yes,Level3,2,2,Yes,Senior,No,Yes,36-50,0,0,0,1,3,1,2,2,5,med,Big family,Ready Rurals,Phone,test
+1919,Mr.,AMEX,NA,male,47,Urban,Yes,38180.4,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+1925,Ms.,Visa,NA,female,46,Urban,Yes,27569,Bundle,Yes,Level2,1,3,Yes,Premium,Yes,No,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+1927,Ms.,AMEX,NA,female,46,Rural,Yes,14405,Single,Yes,Level1,2,3,No,0,Yes,No,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+1931,Mrs.,No Card,NA,female,47,Urban,Yes,34634,Single,Yes,Level1,2,2,No,0,No,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+1932,Mr.,AMEX,NA,male,66,Urban,Yes,27764,Bundle,Yes,Level1,1,0,No,0,Yes,No,>50,medium,1,2,1,1,0,0,2,3,low,nuclear family,Titan Customers,Phone,test
+1940,Mr.,Visa,Furnace kiln oven drier and kettle operator,male,50,Rural,Yes,10277,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+1949,Mrs.,Visa,NA,female,23,Urban,Yes,5183,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+1950,Mr.,AMEX,Surgical technologist,male,46,Rural,Yes,13821,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+1964,Mr.,Visa,Payroll clerk,male,54,Urban,Yes,33932,Single,Yes,Level1,0,2,Yes,Premium,Yes,Yes,>50,high,1,3,1,1,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+1966,Mrs.,Visa,Refractory mason,female,51,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,>50,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Ready Rurals,Email,test
+1969,Mr.,Visa,NA,male,44,Urban,Yes,37346,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+1975,Mr.,AMEX,System operator,male,18,Urban,Yes,5023,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+1985,Mr.,Visa,Administrative worker supervisor,male,48,Urban,Yes,37440,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+1990,Ms.,No Card,Cargo and freight agent,female,18,Rural,No,NA,No MotorInsurance,Yes,Level1,0,0,Yes,Backpacker,No,No,<=35,0,0,0,1,1,1,1,2,2,low,single,Millineum Potentials,Email,test
+1991,Mrs.,AMEX,Public health dietitian,female,22,Urban,Yes,27084,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+1993,Mrs.,AMEX,Public adjuster,female,47,Rural,Yes,28640,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+1996,Mr.,AMEX,NA,male,69,Rural,Yes,33066,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,>50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Phone,test
+1998,Mr.,Visa,Convention planner,male,19,Urban,Yes,25330,Single,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+2002,Mr.,AMEX,NA,male,44,Rural,Yes,31078,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,36-50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Ready Rurals,Phone,test
+2003,Mr.,No Card,Electronic technician,male,52,Rural,Yes,15409,Bundle,No,0,No HI,No HI,No,0,No,No,>50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+2016,Mr.,No Card,NA,male,65,Urban,No,NA,No MotorInsurance,Yes,Level3,1,0,No,0,No,No,>50,0,0,0,1,3,0,0,1,3,low,nuclear family,Ready Rurals,Phone,test
+2019,Mr.,AMEX,Help-desk technician,male,49,Urban,Yes,14725,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+2025,Ms.,Visa,Sales clerk,female,50,Rural,Yes,17153,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Titan Customers,Email,test
+2026,Mr.,Visa,Family therapist,male,24,Urban,Yes,5252,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+2028,Ms.,AMEX,Molder,female,47,Rural,Yes,11815,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,36-50,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Ready Rurals,Phone,test
+2029,Mr.,AMEX,Local controller,male,76,Rural,No,NA,No MotorInsurance,Yes,Level2,1,0,No,0,Yes,No,>50,0,0,0,1,2,0,0,1,2,low,nuclear family,Ready Rurals,Phone,test
+2031,Mrs.,AMEX,Chief operating officer,female,48,Urban,Yes,30958,Single,Yes,Level2,1,2,Yes,Premium,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+2034,Mr.,AMEX,NA,male,46,Urban,Yes,32044,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,36-50,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Titan Customers,Email,test
+2037,Ms.,AMEX,Accounting clerk,female,46,Urban,Yes,32733,Single,Yes,Level3,1,2,No,0,Yes,No,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+2055,Mr.,Visa,Life skill counselor,male,44,Urban,Yes,32687,Single,Yes,Level3,0,2,No,0,Yes,Yes,36-50,high,1,3,1,3,0,0,2,6,med,nuclear family,Titan Customers,Email,test
+2058,Mrs.,AMEX,NA,female,64,Rural,Yes,31428,Single,Yes,Level3,1,0,Yes,Senior,Yes,Yes,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+2059,Mrs.,No Card,NA,female,48,Rural,Yes,32389,Bundle,Yes,Level2,1,2,Yes,Business,No,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+2065,Ms.,Visa,NA,female,49,Urban,Yes,12435,Single,Yes,Level1,1,3,Yes,Business,Yes,No,36-50,low,1,1,1,1,1,3,3,5,med,Big family,Ready Rurals,Phone,test
+2070,Ms.,Visa,Amusement machine repairer,female,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+2071,Mrs.,AMEX,Choke setter,female,18,Urban,Yes,5130,Bundle,No,0,No HI,No HI,No,0,Yes,Yes,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+2073,Dr.,AMEX,NA,male,60,Urban,No,NA,No MotorInsurance,Yes,Level3,1,0,No,0,Yes,No,>50,0,0,0,1,3,0,0,1,3,low,nuclear family,Ready Rurals,Phone,test
+2079,Mr.,Visa,NA,male,49,Rural,Yes,15945,Single,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+2090,Mr.,Visa,Slaughterer,male,61,Rural,Yes,20814,Single,Yes,Level2,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,2,1,2,3,6,med,nuclear family,Titan Customers,Phone,test
+2094,Mrs.,Visa,NA,female,53,Urban,Yes,15716,Single,No,0,No HI,No HI,No,0,Yes,Yes,>50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Phone,test
+2106,Mrs.,AMEX,NA,female,45,Urban,Yes,28405,Single,Yes,Level1,1,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,1,1,3,3,6,med,Big family,Titan Customers,Email,test
+2115,Mr.,Visa,Internet developer,male,47,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+2122,Mr.,No Card,Information and record clerk,male,47,Urban,Yes,34502,Single,Yes,Level1,1,3,Yes,Business,No,Yes,36-50,high,1,3,1,1,1,3,3,7,high,Big family,Titan Customers,Email,test
+2146,Mr.,AMEX,Budget manager,male,46,Urban,Yes,30794,Single,Yes,Level3,1,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,3,1,3,3,8,high,Big family,Titan Customers,Email,test
+2151,Mr.,Visa,Leasing consultant,male,50,Urban,Yes,34644,Single,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+2152,Mrs.,AMEX,NA,female,21,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,Yes,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+2153,Mr.,No Card,Instructional designer,male,44,Urban,Yes,31446,Single,Yes,Level2,0,3,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+2157,Mr.,Visa,NA,male,50,Urban,No,NA,No MotorInsurance,Yes,Level2,0,2,Yes,Standard,Yes,Yes,36-50,0,0,0,1,2,1,2,2,4,med,nuclear family,Ready Rurals,Phone,test
+2160,Mr.,AMEX,Extractive metallurgical engineer,male,43,Urban,Yes,36924,Single,Yes,Level2,0,3,Yes,Senior,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+2167,Ms.,Visa,NA,female,21,Urban,Yes,5090,Single,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+2168,Ms.,No Card,NA,female,52,Urban,Yes,32158,Single,Yes,Level2,2,2,Yes,Standard,No,No,>50,medium,1,2,1,2,1,2,3,6,med,Big family,Titan Customers,Email,test
+2198,Ms.,AMEX,NA,female,46,Rural,Yes,17751,Single,Yes,Level3,1,2,No,0,Yes,No,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+2201,Ms.,No Card,Personnel clerk,female,53,Rural,Yes,13042,Single,Yes,Level2,1,2,No,0,No,No,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+2205,Mr.,No Card,Land agent,male,44,Urban,Yes,36398,Single,No,0,No HI,No HI,Yes,Business,No,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+2215,Mrs.,No Card,Team assembler,female,46,Rural,Yes,28062,Single,Yes,Level2,1,3,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+2218,Mrs.,Visa,Referee,female,45,Urban,Yes,34248,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+2220,Mr.,AMEX,Geriatric nurse,male,41,Urban,Yes,34048,Single,Yes,Level3,1,2,Yes,Premium,Yes,Yes,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+2232,Mr.,Visa,Telephone installer,male,43,Urban,Yes,29745,Bundle,Yes,Level2,0,2,Yes,Premium,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+2241,Ms.,Visa,Cable line installer,female,43,Urban,Yes,32053,Single,Yes,Level3,1,2,Yes,Business,Yes,No,36-50,medium,1,2,1,3,1,3,3,8,high,Big family,Titan Customers,Email,test
+2242,Mr.,Visa,NA,male,18,Rural,Yes,5128,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+2249,Mr.,Visa,Interior designer,male,71,Urban,Yes,25692,Single,Yes,Level3,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+2259,Mr.,Visa,NA,male,18,Rural,Yes,25830,Bundle,Yes,Level1,0,0,No,0,Yes,No,<=35,medium,1,2,1,1,0,0,2,3,low,single,Millineum Potentials,Email,test
+2260,Mrs.,AMEX,X-ray technician,female,46,Urban,Yes,30705,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+2262,Mr.,Visa,Vocational education teacher,male,45,Urban,Yes,38180.4,Bundle,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+2263,Mr.,AMEX,NA,male,46,Urban,Yes,21422,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,36-50,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Titan Customers,Email,test
+2264,Ms.,No Card,Travel adviser,female,51,Urban,Yes,37762,Single,No,0,No HI,No HI,No,0,No,No,>50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+2270,Ms.,AMEX,NA,female,65,Rural,No,NA,No MotorInsurance,Yes,Level1,1,0,No,0,Yes,No,>50,0,0,0,1,1,0,0,1,1,low,nuclear family,Ready Rurals,Phone,test
+2275,Mr.,AMEX,Workforce development officer,male,20,Urban,Yes,27263,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+2278,Mrs.,Visa,Bookmobile driver,female,50,Urban,Yes,31808,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+2287,Mr.,Visa,NA,male,48,Urban,Yes,27948,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+2292,Mr.,AMEX,Bricklayer,male,51,Rural,Yes,19766,Single,Yes,Level2,1,3,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+2296,Mrs.,Visa,NA,female,49,Rural,Yes,32813,Single,Yes,Level1,1,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,1,1,3,3,7,high,Big family,Titan Customers,Email,test
+2298,Ms.,Visa,NA,female,55,Rural,Yes,33811,Single,Yes,Level3,1,3,Yes,Premium,Yes,No,>50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+2299,Mr.,AMEX,Foreign language interpreter,male,45,Rural,Yes,29866,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+2306,Ms.,AMEX,Executive administrative assistant,female,18,Urban,Yes,23670,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+2307,Mrs.,No Card,NA,female,23,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,No,Yes,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+2313,Mr.,AMEX,NA,male,48,Urban,Yes,35724,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+2323,Ms.,No Card,NA,female,50,Urban,Yes,16888,Single,Yes,Level2,1,2,No,0,No,No,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+2329,Mr.,Visa,Terrazzo worker,male,47,Urban,Yes,30029,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,36-50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Titan Customers,Email,test
+2335,Mr.,AMEX,Aircraft electrician,male,18,Urban,Yes,27540,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+2338,Mr.,AMEX,Horse trainer,male,47,Rural,Yes,18472,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+2339,Mr.,AMEX,Financial aid director,male,50,Rural,Yes,14318,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+2341,Mrs.,Visa,Gas appliance repairer,female,44,Rural,Yes,16582,Single,Yes,Level2,2,3,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+2346,Mrs.,AMEX,Screen printing machine operator,female,18,Rural,Yes,28166,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+2349,Mr.,AMEX,Literary interpreter,male,54,Rural,Yes,18032,Single,Yes,Level2,0,2,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+2351,Ms.,Visa,NA,female,50,Rural,Yes,38180.4,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+2355,Mr.,Visa,Pilot,male,19,Rural,Yes,27593,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+2364,Ms.,AMEX,Training director,female,46,Rural,Yes,36498,Single,Yes,Level1,0,2,No,0,Yes,No,36-50,high,1,3,1,1,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+2365,Mr.,AMEX,Embossing machine operator,male,47,Rural,Yes,13804,Single,Yes,Level2,2,2,Yes,Standard,Yes,Yes,36-50,low,1,1,1,2,1,2,3,5,med,Big family,Ready Rurals,Phone,test
+2368,Mr.,AMEX,NA,male,44,Urban,No,NA,No MotorInsurance,Yes,Level3,1,3,Yes,Premium,Yes,Yes,36-50,0,0,0,1,3,1,3,2,6,med,Big family,Ready Rurals,Email,test
+2377,Mr.,Visa,Social psychologist,male,50,Rural,Yes,15749,Single,Yes,Level1,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+2378,Mr.,AMEX,NA,male,23,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+2379,Mrs.,Visa,NA,female,20,Urban,Yes,5329,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+2382,Mr.,Visa,Civil engineer,male,48,Rural,Yes,16314,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+2384,Mr.,Visa,Pharmacy technician,male,49,Urban,Yes,29506,Single,Yes,Level3,0,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,3,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+2388,Dr.,AMEX,Technical trainer,male,21,Urban,Yes,22806,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+2395,Ms.,No Card,NA,female,55,Urban,Yes,38024,Single,No,0,No HI,No HI,No,0,No,No,>50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+2402,Ms.,No Card,NA,female,45,Urban,Yes,32292,Single,Yes,Level2,1,2,No,0,No,No,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+2404,Ms.,Visa,Staffing consultant,female,61,Rural,Yes,28940,Single,Yes,Level3,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+2406,Ms.,AMEX,Insurance broker,female,18,Urban,Yes,5005.8,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,<=35,low,1,1,0,0,1,2,2,3,low,No Health Insurance,Millineum Potentials,SMS,test
+2411,Ms.,No Card,Maxillofacial surgeon,female,51,Rural,Yes,15402,Single,Yes,Level3,2,2,Yes,Standard,No,No,>50,medium,1,2,1,3,1,2,3,7,high,Big family,Ready Rurals,Phone,test
+2417,Ms.,AMEX,Geologist,female,20,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+2423,Mrs.,AMEX,NA,female,46,Urban,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+2428,Mr.,AMEX,Rail transportation occupation,male,52,Rural,Yes,10789,Bundle,Yes,Level2,1,2,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+2429,Ms.,AMEX,Forging machine tender,female,68,Rural,No,NA,No MotorInsurance,Yes,Level3,1,0,No,0,Yes,No,>50,0,0,0,1,3,0,0,1,3,low,nuclear family,Ready Rurals,Phone,test
+2438,Mrs.,No Card,Load dispatcher,female,52,Rural,Yes,13758,Single,Yes,Level1,1,3,No,0,No,Yes,>50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+2443,Mr.,AMEX,Telephone installer,male,45,Rural,Yes,15442,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+2450,Mr.,Visa,Conference service coordinator,male,44,Rural,No,NA,No MotorInsurance,Yes,Level2,0,3,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+2453,Dr.,AMEX,NA,male,20,Urban,Yes,5067,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+2462,Mr.,Visa,NA,male,41,Urban,Yes,29259,Single,Yes,Level1,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Titan Customers,Email,test
+2476,Mr.,AMEX,NA,male,45,Urban,No,NA,No MotorInsurance,Yes,Level3,1,2,Yes,Business,Yes,Yes,36-50,0,0,0,1,3,1,3,2,6,med,Big family,Ready Rurals,Email,test
+2483,Mr.,Visa,Quality control technician,male,41,Rural,Yes,14309,Single,Yes,Level2,1,3,Yes,Premium,Yes,Yes,36-50,low,1,1,1,2,1,3,3,6,med,Big family,Ready Rurals,Phone,test
+2493,Mrs.,AMEX,Poultry farmer,female,47,Rural,Yes,11933,Single,Yes,Level3,1,3,No,0,Yes,Yes,36-50,low,1,1,1,3,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+2498,Ms.,AMEX,Ambulatory care nurse,female,40,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Email,test
+2499,Mrs.,Visa,Appellate court judge,female,42,Urban,No,NA,No MotorInsurance,Yes,Level3,0,3,Yes,Business,Yes,Yes,36-50,0,0,0,1,3,1,3,2,6,med,Big family,Ready Rurals,Email,test
+2506,Mr.,No Card,NA,male,51,Rural,Yes,13516,Single,No,0,No HI,No HI,No,0,No,No,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+2513,Mr.,Visa,Computer clerk,male,44,Urban,Yes,38180.4,Bundle,Yes,Level2,0,2,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,nuclear family,Titan Customers,Email,test
+2516,Mr.,AMEX,NA,male,20,Urban,Yes,5158,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+2519,Mr.,Visa,Maxillofacial surgeon,male,18,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+2520,Mr.,Visa,Independent adjuster,male,51,Rural,Yes,18709,Single,Yes,Level2,1,3,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+2530,Mr.,Visa,Cryptanalyst,male,45,Urban,Yes,31535,Bundle,Yes,Level2,1,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+2532,Mr.,AMEX,Airline pilots,male,64,Rural,Yes,26210,Single,Yes,Level3,0,0,No,0,Yes,No,>50,medium,1,2,1,3,0,0,2,5,med,single,Titan Customers,Phone,test
+2536,Ms.,AMEX,NA,female,51,Rural,Yes,16228,Single,No,0,No HI,No HI,No,0,Yes,No,>50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+2543,Mr.,Visa,Veterinary assistants and laboratory animal caretaker,male,53,Rural,Yes,16726,Single,Yes,Level2,1,2,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+2548,Mr.,No Card,NA,male,49,Urban,Yes,31513,Single,Yes,Level2,1,3,Yes,Business,No,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+2549,Ms.,No Card,NA,female,41,Urban,Yes,29858,Single,Yes,Level2,0,2,Yes,Premium,No,No,36-50,medium,1,2,1,2,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+2552,Mr.,AMEX,Door-to-door sales worker,male,45,Urban,Yes,35148,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+2553,Ms.,No Card,Outside order clerk,female,21,Urban,No,NA,No MotorInsurance,Yes,Level1,0,0,Yes,Backpacker,No,No,<=35,0,0,0,1,1,1,1,2,2,low,single,Millineum Potentials,SMS,test
+2563,Mr.,Visa,Forensic nurse,male,43,Urban,Yes,35750,Bundle,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+2564,Mr.,No Card,Chiropractor,male,20,Urban,Yes,5091,Bundle,No,0,No HI,No HI,Yes,Premium,No,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+2579,Mr.,AMEX,Winch operator,male,19,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+2587,Mr.,AMEX,NA,male,70,Rural,Yes,20496,Single,Yes,Level2,0,0,Yes,Senior,Yes,No,>50,medium,1,2,1,2,1,2,3,6,med,single,Titan Customers,Phone,test
+2588,Mrs.,Visa,Zoologist,female,19,Urban,Yes,24084,Bundle,No,0,No HI,No HI,No,0,Yes,Yes,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+2592,Ms.,AMEX,Radio announcer,female,44,Rural,Yes,14340,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Ready Rurals,Phone,test
+2599,Mr.,AMEX,NA,male,51,Rural,Yes,8235,Single,Yes,Level3,0,3,Yes,Business,Yes,Yes,>50,low,1,1,1,3,1,3,3,7,high,Big family,Ready Rurals,Phone,test
+2605,Ms.,AMEX,NA,female,55,Urban,Yes,18999,Single,Yes,Level2,2,3,No,0,Yes,No,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Phone,test
+2611,Mrs.,AMEX,Machine setter,female,47,Urban,Yes,38180.4,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+2614,Mrs.,Visa,Tax examiner,female,50,Rural,No,NA,No MotorInsurance,Yes,Level3,2,2,No,0,Yes,Yes,36-50,0,0,0,1,3,0,0,1,3,low,Big family,Ready Rurals,Phone,test
+2618,Mr.,AMEX,Industrial maintenance worker,male,21,Urban,Yes,5095,Bundle,Yes,Level1,0,0,Yes,Backpacker,Yes,No,<=35,low,1,1,1,1,1,1,3,3,low,single,Millineum Potentials,SMS,test
+2620,Mrs.,Visa,Coache,female,52,Urban,Yes,31471,Bundle,Yes,Level2,1,3,Yes,Premium,Yes,Yes,>50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+2624,Ms.,AMEX,Inhalation therapist,female,19,Rural,Yes,24331,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+2630,Mr.,AMEX,Emergency care nurse,male,22,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+2634,Mr.,No Card,NA,male,49,Urban,Yes,36819,Single,Yes,Level3,1,3,Yes,Business,No,Yes,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+2638,Mr.,AMEX,NA,male,45,Urban,Yes,27216,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+2646,Mrs.,AMEX,Product designer,female,48,Urban,Yes,30894,Single,Yes,Level2,1,2,Yes,Premium,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+2670,Mrs.,AMEX,Nurse practitioner,female,48,Rural,Yes,14988,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+2673,Ms.,Visa,Physical chemist,female,18,Urban,Yes,5085,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+2677,Mrs.,AMEX,NA,female,45,Urban,Yes,33473,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+2687,Mr.,Visa,Cost engineer,male,48,Urban,Yes,32329,Bundle,Yes,Level2,0,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+2691,Mrs.,Visa,Staff development specialist,female,20,Urban,Yes,27614,Bundle,Yes,Level1,1,0,Yes,Backpacker,Yes,Yes,<=35,medium,1,2,1,1,1,1,3,4,med,nuclear family,Millineum Potentials,Email,test
+2697,Mr.,No Card,Floor broker,male,19,Urban,Yes,5005.8,Bundle,Yes,Level1,1,0,Yes,Backpacker,No,No,<=35,low,1,1,1,1,1,1,3,3,low,nuclear family,Millineum Potentials,Email,test
+2713,Mr.,AMEX,Purchasing clerk,male,19,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+2716,Mr.,Visa,NA,male,66,Rural,Yes,29372,Single,No,0,No HI,No HI,Yes,Senior,Yes,No,>50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Titan Customers,Phone,test
+2725,Mrs.,No Card,NA,female,53,Rural,Yes,8112,Single,Yes,Level3,1,2,Yes,Business,No,Yes,>50,low,1,1,1,3,1,3,3,7,high,Big family,Ready Rurals,Phone,test
+2731,Mr.,AMEX,Letterpress operator,male,46,Urban,Yes,31111,Bundle,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+2735,Mrs.,Visa,Administrative services manager,female,43,Rural,Yes,15332,Single,Yes,Level2,2,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+2736,Mr.,AMEX,NA,male,20,Urban,Yes,31358,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+2738,Ms.,AMEX,Occupational health and safety inspector,female,19,Urban,Yes,5126,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+2743,Mrs.,No Card,NA,female,42,Urban,Yes,31269,Single,Yes,Level1,1,3,No,0,No,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Titan Customers,Email,test
+2748,Mr.,Visa,Copy editor,male,52,Rural,No,NA,No MotorInsurance,Yes,Level3,1,2,No,0,Yes,Yes,>50,0,0,0,1,3,0,0,1,3,low,Big family,Ready Rurals,Phone,test
+2754,Mrs.,AMEX,NA,female,50,Urban,Yes,31407,Single,Yes,Level1,1,3,Yes,Business,Yes,Yes,36-50,medium,1,2,1,1,1,3,3,6,med,Big family,Titan Customers,Email,test
+2761,Ms.,AMEX,LAN manager,female,19,Urban,Yes,5005.8,Bundle,Yes,Level1,0,0,Yes,Backpacker,Yes,No,<=35,low,1,1,1,1,1,1,3,3,low,single,Millineum Potentials,SMS,test
+2775,Ms.,Visa,NA,female,44,Urban,Yes,19207,Single,Yes,Level1,2,2,No,0,Yes,No,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Titan Customers,Email,test
+2784,Mr.,Visa,Agricultural engineer,male,65,Rural,Yes,28273,Single,Yes,Level3,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+2793,Mr.,No Card,NA,male,46,Rural,No,NA,No MotorInsurance,Yes,Level3,0,3,No,0,No,Yes,36-50,0,0,0,1,3,0,0,1,3,low,Big family,Ready Rurals,Phone,test
+2795,Mrs.,AMEX,NA,female,45,Urban,Yes,35228,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+2796,Mr.,No Card,Violin repairer,male,46,Rural,No,NA,No MotorInsurance,Yes,Level2,1,2,Yes,Premium,No,Yes,36-50,0,0,0,1,2,1,3,2,5,med,Big family,Ready Rurals,Phone,test
+2809,Ms.,AMEX,Materials scientist,female,46,Urban,Yes,14003,Single,Yes,Level1,1,3,No,0,Yes,No,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+2810,Mr.,AMEX,Map editor,male,43,Rural,Yes,18018,Single,Yes,Level1,0,3,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,1,1,2,3,5,med,Big family,Ready Rurals,Phone,test
+2815,Mr.,AMEX,NA,male,53,Rural,Yes,35605,Single,No,0,No HI,No HI,Yes,Business,Yes,No,>50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+2816,Mr.,Visa,Polisher,male,46,Urban,Yes,34894,Single,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+2817,Mr.,AMEX,Mortgage loan officer,male,50,Urban,Yes,32680,Bundle,Yes,Level2,2,3,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+2818,Mr.,Visa,Special education teacher,male,43,Urban,Yes,32369,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+2821,Mr.,Visa,NA,male,47,Rural,Yes,11055,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+2826,Mrs.,No Card,Dietetic technician,female,45,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,No,Yes,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+2827,Mr.,AMEX,Pharmacist,male,47,Urban,Yes,34056,Single,Yes,Level1,0,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,1,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+2831,Mrs.,AMEX,Handymen,female,23,Urban,Yes,5365,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+2832,Ms.,Visa,NA,female,19,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+2841,Mrs.,AMEX,City planner,female,47,Rural,No,NA,No MotorInsurance,Yes,Level2,0,2,Yes,Business,Yes,Yes,36-50,0,0,0,1,2,1,3,2,5,med,nuclear family,Ready Rurals,Phone,test
+2848,Mr.,Visa,Bookkeeping clerk,male,44,Urban,Yes,29471,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+2849,Mrs.,AMEX,Aircraft surfaces assembler,female,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+2856,Ms.,AMEX,Line repairer,female,24,Rural,Yes,21238,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+2867,Mr.,AMEX,Time and attendance clerk,male,46,Urban,Yes,13896,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+2872,Mr.,AMEX,Placement director,male,46,Urban,Yes,30585,Single,Yes,Level1,0,3,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,1,1,2,3,5,med,Big family,Titan Customers,Email,test
+2873,Mr.,Visa,Homeowner association manager,male,41,Rural,Yes,34270,Single,Yes,Level2,1,2,Yes,Backpacker,Yes,Yes,36-50,high,1,3,1,2,1,1,3,6,med,Big family,Titan Customers,Email,test
+2885,Mr.,No Card,Radiologic nurse,male,23,Urban,Yes,24266,Bundle,No,0,No HI,No HI,Yes,Premium,No,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+2889,Dr.,Visa,Sorter,female,20,Urban,Yes,5070,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+2901,Mr.,AMEX,NA,male,71,Rural,Yes,23743,Single,Yes,Level2,0,0,Yes,Senior,Yes,No,>50,medium,1,2,1,2,1,2,3,6,med,single,Titan Customers,Phone,test
+2902,Mr.,Visa,Cementing and gluing machine tender,male,43,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+2908,Mrs.,No Card,Human resources administrative assistant,female,45,Rural,Yes,31076,Single,Yes,Level3,1,3,No,0,No,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+2915,Mr.,Visa,NA,male,48,Rural,Yes,16108,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+2919,Mr.,Visa,Lawyer,male,21,Rural,Yes,20537,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+2921,Ms.,No Card,NA,female,48,Urban,Yes,36065,Single,Yes,Level1,0,2,No,0,No,No,36-50,high,1,3,1,1,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+2926,Mr.,AMEX,Account executive,male,51,Urban,Yes,13793,Single,Yes,Level2,0,2,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,nuclear family,Ready Rurals,Phone,test
+2931,Ms.,Visa,Finance manager,female,21,Rural,Yes,22536,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+2934,Mr.,No Card,Food batchmaker,male,48,Urban,Yes,12181,Single,Yes,Level2,1,2,Yes,Standard,No,Yes,36-50,low,1,1,1,2,1,2,3,5,med,Big family,Ready Rurals,Phone,test
+2940,Ms.,AMEX,University professor,female,19,Rural,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+2941,Mrs.,AMEX,NA,female,46,Urban,Yes,34652,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+2944,Mr.,No Card,Historian,male,70,Urban,Yes,22218,Single,Yes,Level3,0,0,Yes,Premium,No,No,>50,medium,1,2,1,3,1,3,3,8,high,single,Titan Customers,Phone,test
+2946,Mr.,Visa,Milling and planing machine tender,male,19,Rural,Yes,23873,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+2951,Mrs.,AMEX,NA,female,45,Urban,Yes,29029,Single,Yes,Level2,1,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+2952,Ms.,AMEX,Police dispatcher,female,49,Urban,Yes,33654,Single,Yes,Level2,1,3,Yes,Business,Yes,No,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+2956,Mrs.,No Card,NA,female,65,Urban,Yes,26631,Bundle,Yes,Level1,1,1,No,0,No,Yes,>50,medium,1,2,1,1,0,0,2,3,low,nuclear family,Titan Customers,Phone,test
+2978,Ms.,Visa,NA,female,49,Urban,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,No,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+2979,Mr.,Visa,NA,male,51,Rural,Yes,9231,Single,Yes,Level2,1,3,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+2996,Mrs.,AMEX,Job development specialist,female,46,Urban,Yes,34585,Single,Yes,Level2,2,3,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+3000,Mr.,Visa,NA,male,48,Urban,Yes,32253,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+3003,Mr.,No Card,NA,male,50,Urban,Yes,28566,Single,No,0,No HI,No HI,No,0,No,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+3009,Ms.,Visa,Special education teacher,female,44,Urban,Yes,36194,Single,Yes,Level2,0,2,Yes,Business,Yes,No,36-50,high,1,3,1,2,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+3010,Ms.,Visa,NA,female,47,Urban,Yes,36413,Single,Yes,Level2,1,3,Yes,Business,Yes,No,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+3011,Mr.,AMEX,Fire prevention specialist,male,45,Urban,Yes,37369,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+3016,Dr.,Visa,NA,male,42,Urban,Yes,34006,Single,Yes,Level3,1,2,No,0,Yes,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+3018,Ms.,AMEX,NA,female,20,Rural,Yes,24239,Bundle,Yes,Level1,0,0,Yes,Standard,Yes,No,<=35,medium,1,2,1,1,1,2,3,5,med,single,Millineum Potentials,Email,test
+3031,Mr.,No Card,Human resources representative,male,49,Rural,Yes,21339,Single,Yes,Level2,0,3,Yes,Standard,No,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+3032,Mrs.,Visa,Gaming services,female,53,Urban,No,NA,No MotorInsurance,Yes,Level2,1,3,Yes,Business,Yes,Yes,>50,0,0,0,1,2,1,3,2,5,med,Big family,Ready Rurals,Phone,test
+3033,Mrs.,Visa,Administrative support services director,female,47,Urban,Yes,19621,Single,Yes,Level1,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Titan Customers,Email,test
+3036,Ms.,Visa,Electronic transcriber,female,19,Urban,Yes,5005.8,Single,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3038,Mrs.,Visa,Numerical tool and process control programmer,female,49,Rural,Yes,10375,Single,Yes,Level1,2,2,No,0,Yes,Yes,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+3039,Mrs.,Visa,NA,female,20,Urban,Yes,5109,Bundle,No,0,No HI,No HI,No,0,Yes,Yes,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+3040,Ms.,Visa,NA,female,49,Urban,Yes,30921,Single,Yes,Level2,0,2,No,0,Yes,No,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+3041,Mr.,Visa,Superintendent,male,20,Urban,Yes,27629,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+3049,Mrs.,Visa,Localization translator,female,19,Urban,Yes,23277,Bundle,No,0,No HI,No HI,Yes,Business,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+3050,Mr.,No Card,NA,male,46,Urban,Yes,38180.4,Single,Yes,Level3,1,3,Yes,Business,No,Yes,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+3056,Mr.,No Card,Administrative support services director,male,45,Rural,Yes,17131,Single,Yes,Level2,1,3,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3060,Mr.,Visa,Brokerage sales assistant,male,44,Urban,Yes,15864,Single,Yes,Level1,0,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,1,1,2,3,5,med,nuclear family,Titan Customers,Email,test
+3061,Ms.,Visa,NA,female,49,Urban,Yes,12884,Single,Yes,Level1,1,3,No,0,Yes,No,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+3062,Mr.,AMEX,NA,male,46,Rural,Yes,29187,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+3067,Mrs.,Visa,NA,female,21,Rural,Yes,28967,Single,Yes,Level3,1,0,Yes,Backpacker,Yes,Yes,<=35,medium,1,2,1,3,1,1,3,6,med,nuclear family,Millineum Potentials,Email,test
+3070,Mr.,Visa,NA,male,18,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+3071,Dr.,AMEX,Health physicist,female,18,Urban,No,NA,No MotorInsurance,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,0,0,0,1,1,1,3,2,4,med,single,Millineum Potentials,Email,test
+3076,Ms.,AMEX,NA,female,67,Urban,Yes,35605,Bundle,Yes,Level2,1,0,Yes,Premium,Yes,No,>50,high,1,3,1,2,1,3,3,8,high,nuclear family,Titan Customers,Phone,test
+3079,Ms.,Visa,Engineer,female,42,Urban,Yes,32584,Single,Yes,Level2,1,2,No,0,Yes,No,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+3083,Mrs.,AMEX,NA,female,48,Urban,Yes,38180.4,Single,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+3085,Mr.,No Card,NA,male,49,Rural,Yes,15066,Single,No,0,No HI,No HI,No,0,No,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+3087,Mrs.,Visa,NA,female,49,Rural,Yes,12195,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+3103,Mr.,AMEX,Homeowner association manager,male,23,Rural,Yes,31474,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+3125,Mr.,No Card,Gaming supervisor,male,48,Urban,Yes,38029,Single,Yes,Level3,1,2,No,0,No,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+3132,Ms.,AMEX,Training consultant,female,54,Rural,Yes,16278,Single,Yes,Level2,0,2,No,0,Yes,No,>50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+3133,Mr.,AMEX,Power dispatcher,male,51,Urban,Yes,38180.4,Single,Yes,Level3,1,3,Yes,Premium,Yes,Yes,>50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+3141,Ms.,AMEX,Policy analyst,female,66,Rural,Yes,20714,Single,No,0,No HI,No HI,Yes,Senior,Yes,No,>50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Titan Customers,Phone,test
+3143,Mrs.,Visa,Cutter,female,18,Urban,Yes,26111,Bundle,Yes,Level1,1,0,Yes,Backpacker,Yes,Yes,<=35,medium,1,2,1,1,1,1,3,4,med,nuclear family,Millineum Potentials,Email,test
+3144,Mrs.,AMEX,NA,female,54,Rural,Yes,12013,Single,Yes,Level2,2,2,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3150,Mr.,AMEX,Aerobics instructor,male,46,Rural,No,NA,No MotorInsurance,Yes,Level2,0,2,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,nuclear family,Ready Rurals,Phone,test
+3160,Mrs.,AMEX,Camera repairer,female,47,Rural,Yes,28923,Single,Yes,Level1,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3164,Ms.,Visa,NA,female,67,Rural,Yes,25709,Single,Yes,Level3,1,0,Yes,Standard,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+3177,Ms.,Visa,NA,female,21,Urban,Yes,5051,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+3179,Mrs.,No Card,NA,female,45,Urban,Yes,33850,Single,No,0,No HI,No HI,Yes,Business,No,Yes,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+3185,Mr.,AMEX,Fence erector,male,52,Urban,Yes,33315,Single,Yes,Level2,1,2,No,0,Yes,Yes,>50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+3191,Mr.,AMEX,NA,male,24,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3196,Ms.,Visa,NA,female,48,Urban,Yes,32598,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+3200,Mr.,No Card,Hand typesetter,male,45,Urban,Yes,25816,Single,Yes,Level3,1,2,Yes,Business,No,Yes,36-50,medium,1,2,1,3,1,3,3,8,high,Big family,Titan Customers,Email,test
+3213,Mr.,AMEX,NA,male,21,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+3223,Mr.,AMEX,Groundskeeping worker,male,46,Rural,Yes,17998,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3227,Dr.,Visa,Finisher,male,53,Urban,Yes,31439,Single,Yes,Level2,1,2,Yes,Business,Yes,Yes,>50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+3229,Mr.,Visa,Window clerk,male,50,Rural,Yes,14407,Single,Yes,Level1,0,3,No,0,Yes,Yes,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+3230,Ms.,No Card,Exercise instructor,female,46,Rural,Yes,11240,Single,Yes,Level2,2,3,No,0,No,No,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3236,Ms.,AMEX,NA,female,51,Rural,Yes,17227,Single,Yes,Level1,0,2,Yes,Standard,Yes,No,>50,medium,1,2,1,1,1,2,3,5,med,nuclear family,Ready Rurals,Phone,test
+3237,Mrs.,AMEX,Excavating operator,female,45,Urban,Yes,37720,Single,Yes,Level1,1,2,Yes,Premium,Yes,Yes,36-50,high,1,3,1,1,1,3,3,7,high,Big family,Titan Customers,Email,test
+3242,Mrs.,No Card,Image designer,female,23,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,No,Yes,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3244,Mr.,Visa,News photographer,male,42,Urban,Yes,36784,Bundle,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+3247,Mr.,Visa,Environmental meteorologist,male,26,Rural,Yes,31693,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+3248,Mr.,No Card,NA,male,21,Urban,Yes,24304,Bundle,Yes,Level1,0,0,Yes,Premium,No,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+3251,Mr.,AMEX,Engineering technician,male,52,Urban,Yes,20820,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,>50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Titan Customers,Email,test
+3272,Ms.,Visa,Psychiatric nurse,female,49,Urban,Yes,33685,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,36-50,high,1,3,0,0,1,2,2,5,med,No Health Insurance,Titan Customers,Email,test
+3273,Ms.,No Card,Control and valve repairer,female,18,Urban,Yes,26689,Bundle,Yes,Level1,0,0,No,0,No,No,<=35,medium,1,2,1,1,0,0,2,3,low,single,Millineum Potentials,Email,test
+3277,Mr.,AMEX,Publicity writer,male,50,Urban,Yes,11064,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3280,Mr.,No Card,Creative writer,male,44,Urban,Yes,33737,Single,Yes,Level2,1,2,No,0,No,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+3282,Ms.,AMEX,Animal control worker,female,18,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+3286,Ms.,No Card,NA,female,21,Rural,Yes,27894,Bundle,Yes,Level2,0,0,No,0,No,No,<=35,medium,1,2,1,2,0,0,2,4,med,single,Millineum Potentials,Email,test
+3299,Mr.,Visa,Water conservationist,male,50,Urban,Yes,11346,Single,Yes,Level2,2,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3304,Mr.,Visa,Press operator,male,22,Urban,Yes,27913,Bundle,Yes,Level1,1,0,No,0,Yes,No,<=35,medium,1,2,1,1,0,0,2,3,low,nuclear family,Millineum Potentials,Email,test
+3305,Mrs.,AMEX,Record center clerk,female,40,Urban,Yes,30797,Single,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,36-50,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Titan Customers,Email,test
+3311,Mr.,No Card,Private accountant,male,47,Rural,Yes,14507,Single,Yes,Level2,1,3,Yes,Business,No,Yes,36-50,low,1,1,1,2,1,3,3,6,med,Big family,Ready Rurals,Phone,test
+3314,Mr.,No Card,Medicinal chemist,male,50,Urban,Yes,17878,Single,Yes,Level2,0,2,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+3320,Mr.,AMEX,Activity specialist,male,21,Urban,Yes,25449,Bundle,Yes,Level1,0,0,No,0,Yes,No,<=35,medium,1,2,1,1,0,0,2,3,low,single,Millineum Potentials,Email,test
+3336,Mrs.,Visa,Employment assistant,female,43,Urban,No,NA,No MotorInsurance,Yes,Level2,1,3,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Email,test
+3340,Mrs.,AMEX,Principal,female,48,Urban,Yes,32560,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+3346,Mr.,No Card,NA,male,67,Urban,Yes,32602,Single,Yes,Level2,1,0,Yes,Senior,No,No,>50,high,1,3,1,2,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+3351,Mr.,Visa,NA,male,44,Urban,Yes,34328,Single,Yes,Level1,2,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,1,1,3,3,7,high,Big family,Titan Customers,Email,test
+3355,Mr.,Visa,Exterminator,male,47,Rural,Yes,20418,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3364,Ms.,No Card,Criminal investigator,female,48,Rural,Yes,15896,Single,Yes,Level1,1,2,No,0,No,No,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3372,Ms.,Visa,NA,female,49,Urban,Yes,38180.4,Single,Yes,Level3,0,2,Yes,Premium,Yes,No,36-50,high,1,3,1,3,1,3,3,9,high,nuclear family,Titan Customers,Email,test
+3376,Mr.,No Card,NA,male,50,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,No,No,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+3379,Mrs.,Visa,NA,female,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+3381,Mrs.,Visa,Gaming machine repairer,female,54,Rural,Yes,16297,Single,Yes,Level3,1,3,No,0,Yes,Yes,>50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+3391,Ms.,Visa,NA,female,52,Urban,Yes,33169,Single,Yes,Level2,1,3,Yes,Business,Yes,No,>50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+3393,Mr.,No Card,NA,male,44,Rural,No,NA,No MotorInsurance,Yes,Level3,0,2,No,0,No,Yes,36-50,0,0,0,1,3,0,0,1,3,low,nuclear family,Ready Rurals,Phone,test
+3399,Mr.,AMEX,Fish trimmer,male,45,Urban,Yes,27918,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,36-50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Titan Customers,Email,test
+3401,Mr.,Visa,NA,male,20,Urban,Yes,30019,Bundle,Yes,Level2,0,0,Yes,Business,Yes,No,<=35,medium,1,2,1,2,1,3,3,7,high,single,Millineum Potentials,Email,test
+3405,Mr.,Visa,Bill and account collector,male,47,Urban,Yes,15035,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3406,Mr.,Visa,Orthotist,male,69,Rural,Yes,22983,Single,Yes,Level1,2,0,Yes,Standard,Yes,No,>50,medium,1,2,1,1,1,2,3,5,med,nuclear family,Titan Customers,Phone,test
+3408,Mrs.,No Card,NA,female,49,Rural,Yes,13244,Single,Yes,Level1,0,3,Yes,Business,No,Yes,36-50,low,1,1,1,1,1,3,3,5,med,Big family,Ready Rurals,Phone,test
+3409,Mr.,AMEX,Broadcast and sound engineering technician,male,46,Urban,Yes,30701,Single,Yes,Level3,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,test
+3410,Mrs.,AMEX,Biostatistician,female,46,Urban,Yes,32131,Single,Yes,Level3,2,3,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,test
+3414,Mr.,Visa,NA,male,46,Rural,Yes,19440,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3421,Ms.,AMEX,Computer typesetter,female,20,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+3426,Mrs.,AMEX,NA,female,47,Rural,Yes,15356,Single,Yes,Level1,1,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,1,1,3,3,6,med,Big family,Titan Customers,Email,test
+3429,Ms.,Visa,Public health dietitian,female,48,Urban,No,NA,No MotorInsurance,Yes,Level2,2,3,No,0,Yes,No,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+3441,Mr.,Visa,Marine,male,51,Rural,Yes,29957,Single,Yes,Level2,0,3,Yes,Business,Yes,Yes,>50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+3451,Ms.,AMEX,NA,female,53,Rural,Yes,8439,Single,Yes,Level2,2,3,Yes,Business,Yes,No,>50,low,1,1,1,2,1,3,3,6,med,Big family,Ready Rurals,Phone,test
+3452,Ms.,Visa,Aircraft and avionics service technician,female,52,Urban,Yes,32467,Single,Yes,Level2,2,2,Yes,Business,Yes,No,>50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+3459,Mrs.,AMEX,NA,female,50,Rural,Yes,19308,Single,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+3466,Mrs.,Visa,Landscape contractor,female,21,Urban,No,NA,No MotorInsurance,Yes,Level1,0,0,Yes,Business,Yes,Yes,<=35,0,0,0,1,1,1,3,2,4,med,single,Millineum Potentials,Email,test
+3473,Mr.,AMEX,NA,male,48,Rural,Yes,17331,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+3474,Mr.,AMEX,NA,male,54,Rural,Yes,19719,Single,Yes,Level2,1,3,Yes,Standard,Yes,Yes,>50,medium,1,2,1,2,1,2,3,6,med,Big family,Ready Rurals,Phone,test
+3475,Mr.,Visa,Interviewer,male,47,Urban,Yes,35923,Single,Yes,Level1,1,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,1,1,3,3,7,high,Big family,Titan Customers,Email,test
+3479,Mrs.,AMEX,Purchasing clerk,female,20,Urban,Yes,5424,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3489,Mr.,No Card,Epidemiologist,male,20,Urban,Yes,26646,Bundle,Yes,Level1,0,0,Yes,Premium,No,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+3499,Mr.,AMEX,Rigging chaser,male,41,Urban,Yes,21027,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+3502,Mr.,Visa,Brake repairer,male,21,Rural,Yes,18234,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+3510,Mr.,AMEX,Log debarker,male,21,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+3513,Mr.,AMEX,Upholsterer,male,22,Urban,Yes,25267,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+3516,Mr.,Visa,Teacher aide,male,50,Urban,No,NA,No MotorInsurance,Yes,Level3,1,2,Yes,Standard,Yes,Yes,36-50,0,0,0,1,3,1,2,2,5,med,Big family,Ready Rurals,Phone,test
+3517,Mrs.,No Card,NA,female,54,Rural,No,NA,No MotorInsurance,Yes,Level1,1,3,No,0,No,Yes,>50,0,0,0,1,1,0,0,1,1,low,Big family,Ready Rurals,Phone,test
+3528,Mr.,AMEX,Rock splitter,male,53,Rural,Yes,17567,Single,No,0,No HI,No HI,Yes,Business,Yes,No,>50,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Titan Customers,Phone,test
+3531,Mr.,Visa,Ornamental ironworker,male,52,Rural,Yes,12785,Single,Yes,Level2,2,3,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3541,Mr.,AMEX,NA,male,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+3546,Mr.,Visa,NA,male,69,Urban,Yes,27282,Bundle,Yes,Level3,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+3547,Ms.,Visa,NA,female,22,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3548,Mrs.,Visa,Tour bus driver,female,46,Urban,Yes,34544,Single,Yes,Level3,0,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,3,1,2,3,8,high,nuclear family,Titan Customers,Email,test
+3551,Ms.,Visa,Knitting machine operator,female,43,Urban,Yes,32810,Single,Yes,Level2,1,2,Yes,Standard,Yes,No,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+3553,Mr.,No Card,Machine offbearer,male,66,Rural,Yes,21522,Single,Yes,Level2,0,0,Yes,Senior,No,No,>50,medium,1,2,1,2,1,2,3,6,med,single,Titan Customers,Phone,test
+3562,Mr.,No Card,Professional scout,male,46,Urban,Yes,37196,Single,Yes,Level2,1,2,Yes,Business,No,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+3565,Mr.,Visa,Executive secretary,male,20,Rural,Yes,21880,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+3571,Mr.,No Card,Florist,male,24,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,No,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+3572,Mr.,AMEX,Public works inspector,male,46,Rural,Yes,15938,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+3574,Mr.,Visa,Clinical laboratory technician,male,18,Urban,Yes,5005.8,Single,No,0,No HI,No HI,Yes,Standard,Yes,No,<=35,low,1,1,0,0,1,2,2,3,low,No Health Insurance,Millineum Potentials,SMS,test
+3575,Ms.,AMEX,NA,female,23,Rural,Yes,28476,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+3578,Mrs.,AMEX,NA,female,72,Rural,No,NA,No MotorInsurance,Yes,Level2,0,0,No,0,Yes,Yes,>50,0,0,0,1,2,0,0,1,2,low,single,Ready Rurals,Phone,test
+3580,Dr.,No Card,Realtor,male,46,Urban,Yes,37352,Single,Yes,Level1,1,3,No,0,No,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+3588,Mr.,Visa,NA,male,44,Rural,Yes,18584,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3594,Mr.,AMEX,Heat treating equipment setter,male,46,Urban,Yes,28796,Single,Yes,Level3,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Titan Customers,Email,test
+3598,Mr.,Visa,Data entry clerk,male,51,Urban,Yes,30276,Single,Yes,Level2,1,2,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+3599,Mrs.,No Card,Loss prevention agent,female,47,Rural,Yes,15333,Bundle,Yes,Level2,0,2,Yes,Standard,No,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,nuclear family,Ready Rurals,Phone,test
+3601,Ms.,Visa,Shoe machine tender,female,21,Urban,Yes,5288,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3602,Ms.,No Card,NA,female,22,Urban,Yes,5005.8,Single,No,0,No HI,No HI,Yes,Backpacker,No,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3610,Mr.,No Card,Podiatrist,male,20,Urban,Yes,21102,Bundle,No,0,No HI,No HI,Yes,Standard,No,No,<=35,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Millineum Potentials,Email,test
+3619,Ms.,Visa,Desktop publisher,female,44,Urban,No,NA,No MotorInsurance,Yes,Level3,1,2,Yes,Backpacker,Yes,No,36-50,0,0,0,1,3,1,1,2,4,med,Big family,Ready Rurals,Email,test
+3628,Mr.,AMEX,Concierge,male,45,Urban,Yes,17355,Single,Yes,Level1,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,nuclear family,Titan Customers,Email,test
+3630,Mr.,AMEX,Extruding forming pressing and compacting machine setter,male,41,Rural,Yes,12995,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+3631,Mr.,Visa,Sawing machine operator,male,47,Urban,Yes,33165,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+3651,Mrs.,AMEX,Welding worker,female,20,Urban,No,NA,No MotorInsurance,Yes,Level2,1,0,Yes,Business,Yes,Yes,<=35,0,0,0,1,2,1,3,2,5,med,nuclear family,Millineum Potentials,Email,test
+3654,Mrs.,AMEX,Support clerk,female,50,Urban,Yes,15046,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+3658,Mr.,AMEX,Administrator,male,49,Urban,Yes,38180.4,Single,Yes,Level1,0,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,1,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+3663,Mrs.,Visa,NA,female,48,Urban,Yes,33848,Single,Yes,Level1,1,3,Yes,Backpacker,Yes,Yes,36-50,high,1,3,1,1,1,1,3,5,med,Big family,Titan Customers,Email,test
+3666,Mr.,Visa,NA,male,45,Urban,Yes,34316,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+3674,Mrs.,AMEX,Biostatistician,female,25,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+3676,Mrs.,AMEX,Usher,female,44,Urban,Yes,29660,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+3682,Mr.,Visa,NA,male,23,Urban,Yes,5072,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3684,Mr.,AMEX,Sampler,male,45,Rural,Yes,36399,Single,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+3689,Mrs.,Visa,NA,female,20,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3701,Ms.,Visa,Weigher,female,66,Rural,Yes,33180,Single,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,high,1,3,1,3,1,2,3,8,high,single,Titan Customers,Phone,test
+3702,Mrs.,AMEX,Simultaneous interpreter,female,20,Urban,Yes,26228,Single,Yes,Level2,0,0,Yes,Business,Yes,Yes,<=35,medium,1,2,1,2,1,3,3,7,high,single,Millineum Potentials,Email,test
+3705,Ms.,AMEX,Office administrator,female,19,Urban,Yes,5210,Bundle,No,0,No HI,No HI,Yes,Standard,Yes,No,<=35,low,1,1,0,0,1,2,2,3,low,No Health Insurance,Millineum Potentials,SMS,test
+3710,Mr.,Visa,Food science technician,male,54,Rural,Yes,12277,Single,Yes,Level2,0,2,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,nuclear family,Ready Rurals,Phone,test
+3723,Mr.,No Card,NA,male,47,Rural,Yes,38180.4,Single,No,0,No HI,No HI,Yes,Standard,No,No,36-50,high,1,3,0,0,1,2,2,5,med,No Health Insurance,Titan Customers,Email,test
+3728,Mr.,Visa,Registered nurse,male,19,Rural,Yes,22062,Bundle,Yes,Level1,2,0,Yes,Premium,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,nuclear family,Millineum Potentials,Email,test
+3734,Mr.,No Card,NA,male,48,Rural,Yes,35379,Single,Yes,Level2,2,2,No,0,No,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+3737,Mr.,No Card,Extruding and forming machine operator,male,54,Rural,Yes,15102,Single,Yes,Level3,1,3,No,0,No,Yes,>50,low,1,1,1,3,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3751,Mr.,AMEX,NA,male,20,Urban,Yes,23654,Bundle,Yes,Level1,0,0,Yes,Business,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+3756,Mr.,No Card,Blaster,male,22,Rural,Yes,5151,Bundle,Yes,Level1,1,0,Yes,Backpacker,No,No,<=35,low,1,1,1,1,1,1,3,3,low,nuclear family,Millineum Potentials,Email,test
+3758,Mr.,AMEX,Electrical power line repairer,male,46,Urban,Yes,38180.4,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+3759,Mrs.,Visa,Law librarian,female,19,Urban,Yes,5239,Single,No,0,No HI,No HI,Yes,Standard,Yes,Yes,<=35,low,1,1,0,0,1,2,2,3,low,No Health Insurance,Millineum Potentials,SMS,test
+3760,Mr.,Visa,Management scientist,male,52,Rural,Yes,14509,Bundle,No,0,No HI,No HI,No,0,Yes,No,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+3768,Mr.,AMEX,NA,male,46,Urban,Yes,30576,Single,Yes,Level2,2,2,Yes,Premium,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+3769,Mrs.,AMEX,NA,female,41,Urban,Yes,34494,Single,Yes,Level2,2,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+3773,Mr.,AMEX,NA,male,56,Urban,Yes,38180.4,Single,Yes,Level2,1,2,No,0,Yes,Yes,>50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+3780,Mr.,No Card,NA,male,20,Rural,Yes,22438,Bundle,Yes,Level1,0,0,Yes,Standard,No,No,<=35,medium,1,2,1,1,1,2,3,5,med,single,Millineum Potentials,Email,test
+3786,Mrs.,Visa,Two-stroke engine mechanic,female,47,Urban,Yes,37770,Single,Yes,Level2,2,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+3787,Ms.,Visa,NA,female,19,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+3791,Mr.,AMEX,Documentation specialist,male,46,Rural,Yes,14877,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3795,Ms.,Visa,NA,female,49,Urban,Yes,34621,Single,Yes,Level2,2,3,Yes,Standard,Yes,No,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+3796,Ms.,Visa,NA,female,21,Urban,Yes,25794,Bundle,Yes,Level1,1,0,Yes,Business,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,nuclear family,Millineum Potentials,Email,test
+3797,Ms.,Visa,Desktop publisher,female,51,Urban,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,No,>50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+3799,Mr.,Visa,NA,male,52,Rural,Yes,13446,Single,Yes,Level2,2,3,No,0,Yes,Yes,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3801,Mr.,Visa,NA,male,50,Rural,Yes,20324,Single,Yes,Level3,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+3812,Mr.,Visa,Medical social worker,male,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+3815,Ms.,Visa,Job printer,female,47,Rural,Yes,12590,Single,Yes,Level2,2,2,No,0,Yes,No,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3821,Mrs.,No Card,NA,female,21,Urban,Yes,25406,Bundle,No,0,No HI,No HI,Yes,Premium,No,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+3826,Mrs.,AMEX,NA,female,52,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,Yes,>50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+3840,Mr.,Visa,Real estate agent,male,46,Urban,Yes,38180.4,Single,Yes,Level1,1,3,No,0,Yes,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+3849,Mr.,AMEX,NA,male,22,Rural,Yes,38180.4,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Millineum Potentials,Email,test
+3865,Mr.,AMEX,NA,male,70,Rural,Yes,25993,Single,Yes,Level1,1,0,Yes,Senior,Yes,No,>50,medium,1,2,1,1,1,2,3,5,med,nuclear family,Titan Customers,Phone,test
+3866,Ms.,Visa,NA,female,21,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+3870,Mrs.,AMEX,Usher,female,49,Rural,Yes,18077,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3871,Mr.,AMEX,NA,male,47,Rural,Yes,15441,Single,Yes,Level2,0,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3873,Ms.,Visa,U.S. Marshal,female,46,Urban,Yes,14240,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+3879,Ms.,AMEX,Emergency and disaster response worker,female,49,Urban,Yes,28576,Single,Yes,Level3,0,2,Yes,Premium,Yes,No,36-50,medium,1,2,1,3,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+3880,Ms.,Visa,NA,female,22,Rural,Yes,28205,Bundle,Yes,Level1,0,0,Yes,Business,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+3883,Ms.,AMEX,HVACR technician,female,49,Rural,Yes,9921,Single,Yes,Level1,0,2,No,0,Yes,No,36-50,low,1,1,1,1,0,0,2,2,low,nuclear family,Ready Rurals,Phone,test
+3890,Ms.,AMEX,Workforce development specialist,female,50,Rural,Yes,14652,Single,Yes,Level2,2,2,No,0,Yes,No,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+3896,Mr.,No Card,NA,male,20,Urban,Yes,5005.8,Single,No,0,No HI,No HI,Yes,Backpacker,No,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+3897,Mr.,No Card,NA,male,50,Rural,Yes,16484,Single,Yes,Level1,1,2,Yes,Business,No,Yes,36-50,medium,1,2,1,1,1,3,3,6,med,Big family,Titan Customers,Email,test
+3898,Mrs.,Visa,NA,female,45,Urban,Yes,27397,Single,Yes,Level1,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,nuclear family,Titan Customers,Email,test
+3902,Ms.,Visa,Community supervision officer,female,48,Rural,Yes,17840,Single,Yes,Level2,2,2,No,0,Yes,No,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3904,Mrs.,Visa,NA,female,50,Rural,Yes,16819,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3912,Mr.,Visa,Tow truck dispatcher,male,21,Rural,Yes,28706,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+3913,Mr.,AMEX,Staffing coordinator,male,22,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+3927,Mr.,No Card,Court reporter,male,44,Urban,Yes,33888,Single,Yes,Level2,1,3,Yes,Backpacker,No,Yes,36-50,high,1,3,1,2,1,1,3,6,med,Big family,Titan Customers,Email,test
+3934,Mrs.,AMEX,Administrative leader,female,51,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,Yes,>50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+3935,Ms.,Visa,NA,female,45,Urban,Yes,36706,Single,Yes,Level2,1,3,Yes,Standard,Yes,No,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+3936,Mrs.,No Card,Prepress worker,female,21,Urban,Yes,31705,Bundle,No,0,No HI,No HI,Yes,Business,No,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+3945,Mr.,AMEX,NA,male,49,Urban,Yes,33990,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+3949,Mr.,Visa,NA,male,51,Rural,No,NA,No MotorInsurance,Yes,Level1,1,2,No,0,Yes,Yes,>50,0,0,0,1,1,0,0,1,1,low,Big family,Ready Rurals,Phone,test
+3951,Mrs.,No Card,Gemologist,female,49,Urban,Yes,35273,Bundle,No,0,No HI,No HI,Yes,Standard,No,Yes,36-50,high,1,3,0,0,1,2,2,5,med,No Health Insurance,Titan Customers,Email,test
+3955,Ms.,AMEX,NA,female,51,Rural,Yes,14558,Single,Yes,Level1,0,2,No,0,Yes,No,>50,low,1,1,1,1,0,0,2,2,low,nuclear family,Ready Rurals,Phone,test
+3968,Mr.,No Card,Property disposal specialist,male,48,Rural,Yes,18847,Single,Yes,Level2,1,2,No,0,No,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+3973,Mr.,AMEX,Talking-books clerk,male,47,Urban,Yes,35508,Single,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+3976,Mr.,No Card,Yardmaster,male,47,Urban,Yes,36789,Single,Yes,Level2,1,3,No,0,No,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+3987,Mr.,Visa,NA,male,49,Urban,Yes,36276,Single,Yes,Level2,0,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,nuclear family,Titan Customers,Email,test
+3988,Ms.,AMEX,Head hunter,female,45,Rural,Yes,10493,Single,Yes,Level2,0,2,Yes,Business,Yes,No,36-50,low,1,1,1,2,1,3,3,6,med,nuclear family,Ready Rurals,Phone,test
+3997,Mr.,AMEX,NA,male,48,Rural,Yes,15915,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+4001,Mrs.,Visa,NA,female,52,Rural,Yes,12981,Single,No,0,No HI,No HI,No,0,Yes,Yes,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+4015,Mrs.,Visa,NA,female,44,Rural,Yes,31282,Single,No,0,No HI,No HI,Yes,Standard,Yes,Yes,36-50,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Ready Rurals,Phone,test
+4018,Mrs.,Visa,NA,female,44,Urban,Yes,29344,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+4026,Ms.,Visa,Electrical and electronics installer,female,48,Rural,Yes,10954,Single,Yes,Level2,1,2,No,0,Yes,No,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+4027,Mr.,No Card,NA,male,19,Urban,Yes,5233,Bundle,No,0,No HI,No HI,Yes,Premium,No,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+4033,Mrs.,Visa,Aircraft electronics specialist,female,21,Urban,Yes,24335,Bundle,No,0,No HI,No HI,Yes,Standard,Yes,Yes,<=35,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Millineum Potentials,Email,test
+4035,Mr.,No Card,NA,male,22,Urban,No,NA,No MotorInsurance,Yes,Level1,2,0,No,0,No,No,<=35,0,0,0,1,1,0,0,1,1,low,nuclear family,Millineum Potentials,Email,test
+4037,Ms.,No Card,NA,female,48,Rural,No,NA,No MotorInsurance,Yes,Level1,0,3,No,0,No,No,36-50,0,0,0,1,1,0,0,1,1,low,Big family,Ready Rurals,Phone,test
+4039,Mr.,AMEX,NA,male,62,Urban,Yes,23412,Single,Yes,Level3,1,0,No,0,Yes,No,>50,medium,1,2,1,3,0,0,2,5,med,nuclear family,Titan Customers,Phone,test
+4060,Mr.,Visa,NA,male,60,Rural,Yes,22583,Single,Yes,Level1,0,0,Yes,Senior,Yes,No,>50,medium,1,2,1,1,1,2,3,5,med,single,Titan Customers,Phone,test
+4063,Mr.,AMEX,Chiropractor,male,51,Rural,Yes,15020,Single,Yes,Level1,1,3,No,0,Yes,Yes,>50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+4071,Mrs.,Visa,NA,female,19,Urban,Yes,21244,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+4072,Ms.,AMEX,Community dietitian,female,50,Rural,Yes,16028,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+4080,Mr.,AMEX,Personnel director,male,18,Rural,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+4081,Ms.,AMEX,Critical care nurse,female,21,Urban,Yes,26931,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+4090,Mr.,AMEX,Window clerk,male,43,Urban,Yes,29697,Single,Yes,Level2,1,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+4091,Mr.,AMEX,NA,male,52,Rural,Yes,12796,Bundle,Yes,Level3,1,3,No,0,Yes,Yes,>50,low,1,1,1,3,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+4094,Mr.,No Card,Metal-refining furnace tender,male,45,Urban,Yes,38180.4,Single,Yes,Level1,2,3,No,0,No,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+4097,Mrs.,No Card,Junior high school teacher,female,51,Urban,Yes,33539,Single,No,0,No HI,No HI,Yes,Business,No,Yes,>50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+4098,Mr.,AMEX,Cutting and slicing machine tender,male,44,Rural,Yes,30435,Single,Yes,Level3,1,3,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,3,1,2,3,7,high,Big family,Ready Rurals,Phone,test
+4112,Mrs.,AMEX,NA,female,51,Rural,Yes,16043,Single,No,0,No HI,No HI,No,0,Yes,Yes,>50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+4117,Mr.,AMEX,NA,male,44,Rural,Yes,35305,Single,Yes,Level2,2,2,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4131,Dr.,No Card,Translator,female,23,Rural,Yes,19438,Bundle,No,0,No HI,No HI,Yes,Standard,No,No,<=35,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Millineum Potentials,Email,test
+4138,Ms.,No Card,Transportation inspector,female,20,Urban,No,NA,No MotorInsurance,Yes,Level2,0,0,Yes,Premium,No,No,<=35,0,0,0,1,2,1,3,2,5,med,single,Millineum Potentials,Email,test
+4144,Mr.,AMEX,Ordnance handling expert,male,50,Rural,Yes,15591,Bundle,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+4145,Mrs.,Visa,NA,female,52,Urban,Yes,34936,Single,Yes,Level2,1,2,No,0,Yes,Yes,>50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4160,Mrs.,No Card,Writer,female,18,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,No,0,No,Yes,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+4165,Ms.,Visa,NA,female,47,Urban,Yes,29216,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+4168,Dr.,No Card,Office clerk,male,18,Rural,Yes,19844,Bundle,No,0,No HI,No HI,Yes,Standard,No,No,<=35,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Millineum Potentials,Email,test
+4169,Mr.,Visa,NA,male,52,Urban,Yes,38180.4,Single,Yes,Level2,2,2,Yes,Premium,Yes,Yes,>50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+4171,Mr.,AMEX,Control room trainee,male,18,Urban,Yes,29221,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4178,Mr.,AMEX,Keeper,male,54,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,>50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+4182,Mr.,AMEX,NA,male,69,Rural,No,NA,No MotorInsurance,Yes,Level3,1,0,No,0,Yes,No,>50,0,0,0,1,3,0,0,1,3,low,nuclear family,Ready Rurals,Phone,test
+4185,Mr.,AMEX,Employee benefits specialist,male,18,Rural,Yes,23265,Single,Yes,Level1,0,0,Yes,Business,Yes,No,<=35,medium,1,2,1,1,1,3,3,6,med,single,Millineum Potentials,Email,test
+4188,Ms.,AMEX,Hydrographic surveyor,female,49,Rural,Yes,18691,Single,Yes,Level2,0,2,Yes,Business,Yes,No,36-50,medium,1,2,1,2,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+4193,Ms.,AMEX,Roof bolter,female,22,Urban,Yes,5118,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+4196,Ms.,Visa,NA,female,51,Rural,Yes,15111,Single,No,0,No HI,No HI,No,0,Yes,No,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+4198,Mrs.,AMEX,Refuge manager,female,51,Urban,Yes,35299,Single,No,0,No HI,No HI,Yes,Business,Yes,Yes,>50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+4207,Ms.,No Card,Education and training manager,female,44,Urban,Yes,27918,Single,Yes,Level1,1,2,Yes,Business,No,No,36-50,medium,1,2,1,1,1,3,3,6,med,Big family,Titan Customers,Email,test
+4211,Mr.,AMEX,NA,male,47,Rural,Yes,16078,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+4212,Mr.,Visa,NA,male,19,Rural,Yes,23767,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4213,Mrs.,Visa,Street vendor,female,44,Rural,Yes,14341,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+4214,Mr.,Visa,Charter bus driver,male,19,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+4215,Mr.,Visa,Data entry worker,male,50,Urban,Yes,34114,Single,Yes,Level2,1,2,Yes,Backpacker,Yes,Yes,36-50,high,1,3,1,2,1,1,3,6,med,Big family,Titan Customers,Email,test
+4219,Mrs.,AMEX,Microbiology technologist,female,71,Urban,Yes,29782,Single,Yes,Level2,0,0,Yes,Business,Yes,Yes,>50,medium,1,2,1,2,1,3,3,7,high,single,Titan Customers,Phone,test
+4222,Ms.,Visa,Department manager,female,43,Urban,Yes,38180.4,Single,Yes,Level3,0,3,Yes,Premium,Yes,No,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+4224,Mr.,Visa,Hairstylist,male,55,Rural,Yes,15871,Single,Yes,Level2,1,2,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+4232,Ms.,Visa,NA,female,42,Rural,Yes,12538,Single,Yes,Level2,2,2,No,0,Yes,No,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+4233,Mr.,No Card,Excavating operator,male,21,Urban,Yes,25727,Single,Yes,Level1,0,0,Yes,Standard,No,No,<=35,medium,1,2,1,1,1,2,3,5,med,single,Millineum Potentials,Email,test
+4245,Ms.,Visa,Public safety dispatcher,female,51,Rural,No,NA,No MotorInsurance,Yes,Level1,1,2,No,0,Yes,No,>50,0,0,0,1,1,0,0,1,1,low,Big family,Ready Rurals,Phone,test
+4252,Mr.,Visa,NA,male,50,Urban,Yes,38180.4,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+4254,Mr.,Visa,NA,male,50,Rural,Yes,16677,Single,Yes,Level3,1,2,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,3,1,2,3,7,high,Big family,Ready Rurals,Phone,test
+4256,Mr.,Visa,NA,male,46,Rural,Yes,35036,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4257,Mr.,AMEX,NA,male,41,Rural,Yes,34378,Single,Yes,Level3,0,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,3,1,3,3,9,high,nuclear family,Titan Customers,Email,test
+4261,Ms.,AMEX,NA,female,50,Rural,Yes,33158,Single,Yes,Level3,0,3,Yes,Premium,Yes,No,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+4262,Mr.,Visa,Central office operator,male,46,Urban,Yes,36064,Single,Yes,Level3,1,2,Yes,Premium,Yes,Yes,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+4268,Mrs.,Visa,NA,female,71,Rural,Yes,27951,Bundle,Yes,Level3,1,0,Yes,Senior,Yes,Yes,>50,medium,1,2,1,3,1,2,3,7,high,nuclear family,Titan Customers,Phone,test
+4276,Mrs.,Visa,Bartender,female,23,Urban,Yes,26978,Bundle,No,0,No HI,No HI,Yes,Business,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4282,Mr.,No Card,NA,male,71,Urban,No,NA,No MotorInsurance,Yes,Level3,2,0,Yes,Senior,No,No,>50,0,0,0,1,3,1,2,2,5,med,nuclear family,Ready Rurals,Phone,test
+4285,Mr.,Visa,Public health social worker,male,20,Urban,Yes,5067,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+4287,Mr.,Visa,Camera repairer,male,47,Urban,Yes,34872,Single,Yes,Level1,0,3,No,0,Yes,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+4290,Ms.,AMEX,NA,female,52,Rural,Yes,18779,Single,Yes,Level2,0,3,No,0,Yes,No,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+4292,Mr.,AMEX,Periodontist,male,21,Urban,Yes,5063,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+4293,Ms.,AMEX,NA,female,44,Rural,Yes,10477,Single,Yes,Level2,0,2,No,0,Yes,No,36-50,low,1,1,1,2,0,0,2,3,low,nuclear family,Ready Rurals,Phone,test
+4304,Dr.,No Card,Documentation specialist,male,49,Rural,Yes,13235,Single,No,0,No HI,No HI,Yes,Standard,No,No,36-50,low,1,1,0,0,1,2,2,3,low,No Health Insurance,Ready Rurals,Phone,test
+4305,Ms.,Visa,Cardiologist,female,21,Urban,Yes,5005.8,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,low,1,1,1,1,1,3,3,5,med,single,Millineum Potentials,SMS,test
+4310,Mr.,AMEX,Assignment clerk,male,66,Urban,No,NA,No MotorInsurance,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,0,0,0,1,3,1,2,2,5,med,single,Ready Rurals,Phone,test
+4314,Mr.,AMEX,NA,male,47,Urban,Yes,12858,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+4317,Mrs.,Visa,NA,female,48,Urban,Yes,35483,Single,No,0,No HI,No HI,Yes,Standard,Yes,Yes,36-50,high,1,3,0,0,1,2,2,5,med,No Health Insurance,Titan Customers,Email,test
+4321,Mr.,AMEX,Farm equipment mechanic,male,23,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+4334,Mr.,Visa,NA,male,18,Urban,Yes,31963,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4336,Mrs.,No Card,Textile knitting and weaving machine tender,female,50,Urban,No,NA,No MotorInsurance,Yes,Level2,1,3,No,0,No,Yes,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+4339,Mr.,Visa,Chemical plant and system operator,male,52,Rural,No,NA,No MotorInsurance,Yes,Level2,1,3,Yes,Standard,Yes,Yes,>50,0,0,0,1,2,1,2,2,4,med,Big family,Ready Rurals,Phone,test
+4357,Mrs.,AMEX,NA,female,21,Urban,No,NA,No MotorInsurance,Yes,Level1,0,0,Yes,Premium,Yes,Yes,<=35,0,0,0,1,1,1,3,2,4,med,single,Millineum Potentials,SMS,test
+4358,Ms.,Visa,Electronic publisher,female,25,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+4361,Mrs.,AMEX,NA,female,20,Rural,Yes,5005.8,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,Yes,<=35,low,1,1,1,1,1,3,3,5,med,single,Millineum Potentials,SMS,test
+4363,Mr.,No Card,Assistant editor,male,47,Rural,Yes,34568,Single,Yes,Level2,1,3,No,0,No,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4365,Mr.,AMEX,Staff manager,male,48,Urban,Yes,25948,Single,Yes,Level2,0,3,Yes,Premium,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+4369,Ms.,Visa,NA,female,48,Rural,Yes,15158,Single,Yes,Level2,0,2,No,0,Yes,No,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+4377,Mr.,Visa,Defense attorney,male,53,Urban,Yes,36507,Single,Yes,Level2,1,2,No,0,Yes,Yes,>50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4379,Ms.,AMEX,NA,female,45,Urban,Yes,38180.4,Single,Yes,Level2,2,3,No,0,Yes,No,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4386,Mrs.,No Card,Agronomist,female,54,Urban,Yes,34186,Bundle,Yes,Level3,1,3,No,0,No,Yes,>50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+4388,Mr.,AMEX,Milling and planing machine setter,male,20,Urban,Yes,23586,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4390,Ms.,AMEX,Oceanographer,female,21,Urban,No,NA,No MotorInsurance,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,0,0,0,1,1,1,3,2,4,med,single,Millineum Potentials,Email,test
+4396,Mrs.,AMEX,Apartment rental agent,female,57,Rural,Yes,15841,Single,Yes,Level3,0,2,No,0,Yes,Yes,>50,medium,1,2,1,3,0,0,2,5,med,nuclear family,Ready Rurals,Phone,test
+4408,Mr.,AMEX,NA,male,46,Rural,Yes,9618,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+4411,Ms.,No Card,NA,female,18,Rural,Yes,21449,Bundle,No,0,No HI,No HI,Yes,Business,No,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4414,Mr.,AMEX,Record center clerk,male,48,Urban,Yes,36508,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+4417,Mrs.,AMEX,NA,female,24,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+4418,Mr.,Visa,Construction electrician,male,48,Urban,Yes,38180.4,Single,Yes,Level2,2,3,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4422,Mr.,Visa,Actuarie,male,48,Rural,No,NA,No MotorInsurance,Yes,Level1,1,2,No,0,Yes,Yes,36-50,0,0,0,1,1,0,0,1,1,low,Big family,Ready Rurals,Phone,test
+4432,Mr.,Visa,Safety technician,male,53,Urban,Yes,29985,Bundle,Yes,Level1,1,2,Yes,Standard,Yes,Yes,>50,medium,1,2,1,1,1,2,3,5,med,Big family,Titan Customers,Email,test
+4435,Ms.,AMEX,Photogrammetrist,female,18,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+4436,Mrs.,AMEX,Title searcher,female,47,Urban,Yes,32750,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4450,Mr.,No Card,Baker,male,48,Urban,Yes,28699,Single,Yes,Level2,0,2,Yes,Business,No,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,nuclear family,Titan Customers,Email,test
+4456,Mr.,AMEX,Research chef,male,24,Urban,Yes,30380,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4460,Mr.,AMEX,Construction manager,male,51,Rural,Yes,8539,Single,Yes,Level2,2,3,Yes,Premium,Yes,Yes,>50,low,1,1,1,2,1,3,3,6,med,Big family,Ready Rurals,Phone,test
+4465,Mr.,Visa,Real estate broker,male,67,Rural,Yes,33329,Single,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,high,1,3,1,3,1,2,3,8,high,single,Titan Customers,Phone,test
+4478,Mr.,No Card,Library clerk,male,48,Urban,Yes,31755,Single,Yes,Level1,1,3,No,0,No,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Titan Customers,Email,test
+4483,Mr.,Visa,Gerontology aide,male,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+4485,Ms.,Visa,NA,female,19,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+4489,Mr.,No Card,NA,male,46,Urban,Yes,36672,Single,Yes,Level2,1,2,No,0,No,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4497,Mrs.,AMEX,Passenger rate clerk,female,49,Rural,Yes,9902,Single,Yes,Level2,2,2,Yes,Standard,Yes,Yes,36-50,low,1,1,1,2,1,2,3,5,med,Big family,Ready Rurals,Phone,test
+4501,Ms.,AMEX,Graphic artist,female,42,Urban,Yes,33024,Single,Yes,Level2,2,3,Yes,Standard,Yes,No,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+4502,Mr.,Visa,Employer relations representative,male,53,Urban,Yes,33050,Single,Yes,Level1,1,2,No,0,Yes,Yes,>50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+4503,Mrs.,Visa,Design printing machine operator,female,46,Rural,Yes,11721,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+4511,Mr.,Visa,CT technologist,male,48,Rural,Yes,16488,Single,Yes,Level2,1,3,Yes,Premium,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+4512,Ms.,Visa,NA,female,43,Urban,Yes,28013,Single,Yes,Level2,2,2,No,0,Yes,No,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+4514,Mrs.,Visa,Cosmetologist,female,46,Rural,Yes,13201,Single,Yes,Level2,2,3,Yes,Standard,Yes,Yes,36-50,low,1,1,1,2,1,2,3,5,med,Big family,Ready Rurals,Phone,test
+4523,Mr.,Visa,NA,male,20,Urban,Yes,5056,Bundle,Yes,Level3,2,0,No,0,Yes,No,<=35,low,1,1,1,3,0,0,2,4,med,nuclear family,Millineum Potentials,SMS,test
+4527,Ms.,AMEX,Computer control operator,female,42,Urban,Yes,38180.4,Single,Yes,Level3,1,2,No,0,Yes,No,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+4528,Ms.,No Card,Film and video editor,female,49,Rural,Yes,31758,Single,No,0,No HI,No HI,No,0,No,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+4530,Ms.,AMEX,Commodities trader,female,19,Rural,Yes,28258,Bundle,Yes,Level1,0,0,No,0,Yes,No,<=35,medium,1,2,1,1,0,0,2,3,low,single,Millineum Potentials,Email,test
+4535,Mr.,Visa,NA,male,49,Urban,Yes,33753,Single,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,Big family,Titan Customers,Email,test
+4549,Mrs.,Visa,Qualified members of the engine department,female,48,Rural,Yes,17261,Single,Yes,Level3,1,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,3,1,3,3,8,high,Big family,Titan Customers,Email,test
+4550,Mr.,No Card,Field technician,male,50,Urban,Yes,34392,Single,Yes,Level3,1,2,Yes,Business,No,Yes,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+4562,Mr.,AMEX,NA,male,20,Urban,Yes,26291,Bundle,No,0,No HI,No HI,Yes,Standard,Yes,No,<=35,medium,1,2,0,0,1,2,2,4,med,No Health Insurance,Millineum Potentials,Email,test
+4567,Ms.,No Card,NA,female,65,Rural,No,NA,No MotorInsurance,Yes,Level2,1,0,No,0,No,No,>50,0,0,0,1,2,0,0,1,2,low,nuclear family,Ready Rurals,Phone,test
+4569,Mr.,AMEX,NA,male,21,Urban,Yes,5354,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+4570,Ms.,Visa,Digital image processor,female,45,Urban,Yes,38180.4,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+4572,Mrs.,Visa,NA,female,18,Urban,Yes,5022,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+4576,Mr.,Visa,Group exercise instructor,male,48,Urban,Yes,31557,Single,Yes,Level2,0,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+4581,Mr.,AMEX,NA,male,20,Rural,Yes,26547,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4583,Mrs.,Visa,NA,female,50,Urban,Yes,11941,Single,No,0,No HI,No HI,No,0,Yes,Yes,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+4587,Ms.,Visa,Drywall installer,female,47,Urban,Yes,31877,Single,Yes,Level2,0,2,No,0,Yes,No,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+4590,Mr.,Visa,Stock trader,male,53,Rural,Yes,15924,Single,Yes,Level2,0,2,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+4593,Ms.,No Card,Foot doctor,female,54,Urban,Yes,32836,Single,Yes,Level2,0,2,Yes,Standard,No,No,>50,high,1,3,1,2,1,2,3,7,high,nuclear family,Titan Customers,Email,test
+4596,Mr.,AMEX,Foreign language translator,male,18,Urban,Yes,28478,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+4597,Ms.,AMEX,NA,female,48,Urban,Yes,35722,Single,Yes,Level1,1,3,No,0,Yes,No,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+4599,Mr.,AMEX,Front desk clerk,male,21,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+4624,Mr.,AMEX,Network administrator,male,43,Rural,Yes,17612,Single,Yes,Level1,2,2,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+4626,Dr.,No Card,NA,female,52,Rural,Yes,14494,Single,Yes,Level2,1,3,Yes,Standard,No,Yes,>50,low,1,1,1,2,1,2,3,5,med,Big family,Ready Rurals,Phone,test
+4634,Ms.,No Card,Promotions specialist,female,52,Rural,Yes,13089,Single,Yes,Level2,1,2,No,0,No,No,>50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+4636,Mr.,Visa,Civil service clerk,male,42,Urban,Yes,31227,Bundle,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+4643,Ms.,AMEX,NA,female,44,Urban,No,NA,No MotorInsurance,Yes,Level3,0,2,No,0,Yes,No,36-50,0,0,0,1,3,0,0,1,3,low,nuclear family,Ready Rurals,Email,test
+4651,Mr.,AMEX,NA,male,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,<=35,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Millineum Potentials,SMS,test
+4658,Mr.,Visa,Logistician,male,49,Rural,Yes,18230,Single,Yes,Level2,2,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+4659,Mrs.,AMEX,Airframe mechanic,female,18,Rural,Yes,5252,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+4672,Mr.,AMEX,NA,male,47,Urban,Yes,30721,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+4679,Dr.,AMEX,NA,female,40,Urban,No,NA,No MotorInsurance,Yes,Level1,1,2,Yes,Backpacker,Yes,Yes,36-50,0,0,0,1,1,1,1,2,2,low,Big family,Ready Rurals,Email,test
+4689,Ms.,Visa,Gaming change person,female,22,Urban,Yes,5005.8,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+4693,Dr.,AMEX,Conservation technician,female,19,Urban,Yes,5135,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+4697,Mr.,Visa,NA,male,21,Urban,Yes,20727,Bundle,Yes,Level1,0,0,Yes,Standard,Yes,No,<=35,medium,1,2,1,1,1,2,3,5,med,single,Millineum Potentials,Email,test
+4700,Mrs.,AMEX,Electronic equipment repairer,female,19,Urban,Yes,31581,Bundle,Yes,Level1,0,0,No,0,Yes,Yes,<=35,medium,1,2,1,1,0,0,2,3,low,single,Millineum Potentials,Email,test
+4704,Mr.,AMEX,NA,male,41,Rural,Yes,17299,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+4712,Mrs.,Visa,Pathologist,female,21,Rural,No,NA,No MotorInsurance,Yes,Level1,0,0,Yes,Premium,Yes,Yes,<=35,0,0,0,1,1,1,3,2,4,med,single,Millineum Potentials,SMS,test
+4713,Mrs.,AMEX,Plant manager,female,66,Rural,No,NA,No MotorInsurance,Yes,Level3,1,0,Yes,Standard,Yes,Yes,>50,0,0,0,1,3,1,2,2,5,med,nuclear family,Ready Rurals,Phone,test
+4714,Ms.,AMEX,Ultrasound technologist,female,51,Urban,Yes,31389,Single,Yes,Level2,1,2,Yes,Standard,Yes,No,>50,medium,1,2,1,2,1,2,3,6,med,Big family,Titan Customers,Email,test
+4716,Mr.,AMEX,Industrial economist,male,19,Rural,Yes,26267,Bundle,No,0,No HI,No HI,Yes,Business,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4724,Ms.,Visa,Automotive mechanic,female,43,Rural,Yes,32221,Single,Yes,Level3,1,2,Yes,Standard,Yes,No,36-50,medium,1,2,1,3,1,2,3,7,high,Big family,Ready Rurals,Phone,test
+4730,Mrs.,No Card,Meter reader,female,41,Urban,Yes,29788,Single,No,0,No HI,No HI,No,0,No,Yes,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Titan Customers,Email,test
+4737,Mr.,AMEX,Ratings analyst,male,45,Rural,Yes,11661,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,low,1,1,1,2,0,0,2,3,low,Big family,Ready Rurals,Phone,test
+4748,Mrs.,Visa,Stucco mason,female,43,Urban,Yes,31671,Single,Yes,Level1,0,3,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Titan Customers,Email,test
+4756,Mr.,Visa,Erector,male,47,Rural,Yes,17295,Bundle,Yes,Level3,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,3,0,0,2,5,med,Big family,Ready Rurals,Phone,test
+4758,Ms.,Visa,NA,female,64,Urban,Yes,27421,Single,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,medium,1,2,1,3,1,2,3,7,high,single,Titan Customers,Phone,test
+4764,Ms.,Visa,Laboratory animal technologist,female,72,Urban,No,NA,No MotorInsurance,Yes,Level3,0,0,No,0,Yes,No,>50,0,0,0,1,3,0,0,1,3,low,single,Ready Rurals,Phone,test
+4766,Ms.,AMEX,Operating engineer,female,51,Rural,Yes,33807,Single,No,0,No HI,No HI,Yes,Business,Yes,No,>50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+4771,Mr.,Visa,Teletype operator,male,73,Rural,No,NA,No MotorInsurance,Yes,Level1,0,0,No,0,Yes,No,>50,0,0,0,1,1,0,0,1,1,low,single,Ready Rurals,Phone,test
+4783,Mr.,AMEX,Addictions nurse,male,45,Urban,Yes,27587,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+4785,Ms.,No Card,High school counselor,female,20,Urban,Yes,20855,Bundle,No,0,No HI,No HI,Yes,Backpacker,No,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+4786,Mr.,No Card,Certified pest control applicator,male,48,Urban,Yes,38180.4,Single,Yes,Level1,1,3,No,0,No,Yes,36-50,high,1,3,1,1,0,0,2,4,med,Big family,Titan Customers,Email,test
+4791,Mr.,No Card,NA,male,67,Rural,Yes,34578,Bundle,Yes,Level1,0,0,Yes,Standard,No,No,>50,high,1,3,1,1,1,2,3,6,med,single,Titan Customers,Phone,test
+4800,Ms.,Visa,Semiconductor processing technician,female,20,Rural,Yes,5005.8,Bundle,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,low,1,1,0,0,1,1,2,2,low,No Health Insurance,Millineum Potentials,SMS,test
+4808,Mrs.,Visa,NA,female,24,Urban,Yes,21775,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4811,Mr.,Visa,Crossing guard,male,19,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+4812,Mr.,Visa,NA,male,47,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,36-50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+4813,Mr.,AMEX,Network and computer systems administrator,male,20,Rural,Yes,25376,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4822,Mr.,No Card,NA,male,47,Urban,Yes,31261,Single,Yes,Level3,1,3,Yes,Standard,No,Yes,36-50,medium,1,2,1,3,1,2,3,7,high,Big family,Titan Customers,Email,test
+4827,Dr.,No Card,Power plant distributor,female,18,Urban,Yes,17740,Bundle,Yes,Level2,0,0,No,0,No,No,<=35,medium,1,2,1,2,0,0,2,4,med,single,Millineum Potentials,Email,test
+4837,Ms.,AMEX,Ophthalmologic sonographer,female,52,Urban,Yes,16740,Single,Yes,Level2,0,3,No,0,Yes,No,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+4841,Mr.,Visa,NA,male,72,Rural,Yes,28539,Single,No,0,No HI,No HI,No,0,Yes,No,>50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+4851,Mrs.,Visa,Convention planner,female,49,Urban,Yes,19744,Single,Yes,Level2,2,2,Yes,Business,Yes,Yes,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+4857,Mr.,AMEX,NA,male,52,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,No,0,Yes,No,>50,0,0,0,0,0,0,0,0,0,noClue,No Health Insurance,Ready Rurals,Phone,test
+4866,Mrs.,Visa,Medical social worker,female,43,Urban,Yes,31163,Single,Yes,Level1,1,3,Yes,Business,Yes,Yes,36-50,medium,1,2,1,1,1,3,3,6,med,Big family,Titan Customers,Email,test
+4874,Ms.,No Card,NA,female,45,Urban,Yes,22418,Single,Yes,Level1,1,3,No,0,No,No,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Titan Customers,Email,test
+4879,Ms.,Visa,NA,female,18,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+4893,Mr.,AMEX,NA,male,48,Urban,Yes,19142,Single,Yes,Level2,0,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+4894,Ms.,AMEX,Slaughterer,female,21,Urban,Yes,5005.8,Bundle,Yes,Level1,0,0,Yes,Premium,Yes,No,<=35,low,1,1,1,1,1,3,3,5,med,single,Millineum Potentials,SMS,test
+4897,Mr.,No Card,Masseuse,male,48,Urban,No,NA,No MotorInsurance,Yes,Level2,1,2,Yes,Business,No,Yes,36-50,0,0,0,1,2,1,3,2,5,med,Big family,Ready Rurals,Phone,test
+4911,Mr.,Visa,Electronics repairer,male,46,Rural,Yes,16890,Single,No,0,No HI,No HI,Yes,Business,Yes,No,36-50,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Titan Customers,Email,test
+4914,Mr.,Visa,Econometrician,male,52,Rural,Yes,8987,Single,No,0,No HI,No HI,No,0,Yes,No,>50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+4922,Mr.,AMEX,NA,male,52,Rural,Yes,16064,Single,Yes,Level2,1,3,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,Big family,Ready Rurals,Phone,test
+4925,Mrs.,No Card,NA,female,48,Urban,No,NA,No MotorInsurance,Yes,Level1,1,3,No,0,No,Yes,36-50,0,0,0,1,1,0,0,1,1,low,Big family,Ready Rurals,Phone,test
+4927,Mr.,No Card,NA,male,73,Urban,Yes,24627,Bundle,Yes,Level2,0,0,Yes,Senior,No,No,>50,medium,1,2,1,2,1,2,3,6,med,single,Titan Customers,Phone,test
+4940,Mr.,No Card,Merchandise window trimmer,male,45,Urban,Yes,37457,Single,Yes,Level2,1,2,No,0,No,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+4943,Mr.,Visa,Funeral attendant,male,50,Urban,Yes,15693,Single,Yes,Level2,2,3,Yes,Standard,Yes,Yes,36-50,medium,1,2,1,2,1,2,3,6,med,Big family,Titan Customers,Email,test
+4953,Mr.,Visa,Refuge manager,male,42,Urban,Yes,35936,Single,Yes,Level3,0,2,No,0,Yes,Yes,36-50,high,1,3,1,3,0,0,2,6,med,nuclear family,Titan Customers,Email,test
+4957,Mr.,Visa,Instructional coach,male,47,Urban,Yes,18217,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Titan Customers,Email,test
+4964,Dr.,Visa,Claims examiner,female,47,Rural,Yes,17426,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+4973,Mrs.,AMEX,Adjuster,female,21,Urban,Yes,30351,Bundle,No,0,No HI,No HI,Yes,Business,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+4982,Mrs.,No Card,County court judge,female,20,Rural,Yes,24838,Bundle,Yes,Level2,0,0,Yes,Backpacker,No,Yes,<=35,medium,1,2,1,2,1,1,3,5,med,single,Millineum Potentials,Email,test
+4983,Mr.,Visa,NA,male,49,Rural,Yes,15940,Single,Yes,Level2,0,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+4992,Mrs.,Visa,Landscape designer,female,47,Urban,Yes,13414,Single,Yes,Level1,1,2,No,0,Yes,Yes,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+4993,Ms.,Visa,NA,female,46,Urban,Yes,15459,Single,Yes,Level1,0,2,No,0,Yes,No,36-50,medium,1,2,1,1,0,0,2,3,low,nuclear family,Titan Customers,Email,test
+4996,Ms.,AMEX,NA,female,20,Urban,Yes,5037,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+4998,Mr.,Visa,Marriage and family therapist,male,46,Rural,Yes,8480,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+5000,Mr.,AMEX,Physician assistant,male,42,Urban,Yes,38180.4,Single,Yes,Level3,1,3,Yes,Premium,Yes,Yes,36-50,high,1,3,1,3,1,3,3,9,high,Big family,Titan Customers,Email,test
+5006,Mrs.,Visa,Operating room technician,female,20,Rural,Yes,13492,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,low,1,1,0,0,1,3,2,4,med,No Health Insurance,Millineum Potentials,SMS,test
+5013,Mrs.,No Card,Airport tower controller,female,53,Rural,No,NA,No MotorInsurance,Yes,Level2,0,2,No,0,No,Yes,>50,0,0,0,1,2,0,0,1,2,low,nuclear family,Ready Rurals,Phone,test
+5016,Mrs.,Visa,NA,female,44,Urban,Yes,33275,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+5022,Mr.,AMEX,NA,male,21,Urban,Yes,22660,Bundle,No,0,No HI,No HI,No,0,Yes,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+5024,Mr.,AMEX,Poultry scientist,male,19,Urban,Yes,26969,Single,Yes,Level2,0,0,Yes,Backpacker,Yes,No,<=35,medium,1,2,1,2,1,1,3,5,med,single,Millineum Potentials,Email,test
+5028,Mr.,AMEX,Economist,male,46,Urban,No,NA,No MotorInsurance,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,0,0,0,1,2,1,2,2,4,med,Big family,Ready Rurals,Phone,test
+5032,Mr.,Visa,NA,male,48,Rural,No,NA,No MotorInsurance,Yes,Level2,0,2,No,0,Yes,Yes,36-50,0,0,0,1,2,0,0,1,2,low,nuclear family,Ready Rurals,Phone,test
+5035,Ms.,AMEX,Airframe mechanic,female,49,Urban,Yes,17675,Single,Yes,Level2,1,2,Yes,Business,Yes,No,36-50,medium,1,2,1,2,1,3,3,7,high,Big family,Titan Customers,Email,test
+5044,Mr.,Visa,NA,male,20,Urban,Yes,30638,Single,No,0,No HI,No HI,Yes,Backpacker,Yes,No,<=35,medium,1,2,0,0,1,1,2,3,low,No Health Insurance,Millineum Potentials,Email,test
+5051,Ms.,AMEX,Wildlife biologist,female,48,Rural,Yes,33336,Single,No,0,No HI,No HI,Yes,Premium,Yes,No,36-50,high,1,3,0,0,1,3,2,6,med,No Health Insurance,Titan Customers,Email,test
+5055,Mr.,AMEX,Short haul or local truck driver,male,47,Urban,Yes,37111,Single,Yes,Level2,1,2,Yes,Standard,Yes,Yes,36-50,high,1,3,1,2,1,2,3,7,high,Big family,Titan Customers,Email,test
+5056,Mr.,AMEX,Landscape contractor,male,46,Urban,Yes,34424,Single,Yes,Level2,0,2,Yes,Business,Yes,Yes,36-50,high,1,3,1,2,1,3,3,8,high,nuclear family,Titan Customers,Email,test
+5059,Ms.,Visa,Clinical manager,female,48,Rural,Yes,14600,Single,Yes,Level1,0,3,No,0,Yes,No,36-50,low,1,1,1,1,0,0,2,2,low,Big family,Ready Rurals,Phone,test
+5060,Ms.,Visa,Mechanical door repairer,female,48,Rural,Yes,31219,Single,Yes,Level1,0,2,Yes,Business,Yes,No,36-50,medium,1,2,1,1,1,3,3,6,med,nuclear family,Titan Customers,Email,test
+5062,Mr.,No Card,Construction electrician,male,47,Urban,Yes,38180.4,Single,Yes,Level3,1,2,No,0,No,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+5063,Mr.,No Card,Environmental scientist,male,18,Rural,Yes,23828,Bundle,No,0,No HI,No HI,No,0,No,No,<=35,medium,1,2,0,0,0,0,1,2,low,No Health Insurance,Millineum Potentials,Email,test
+5064,Mr.,No Card,Polisher,male,68,Rural,Yes,27872,Single,Yes,Level3,0,0,Yes,Senior,No,No,>50,medium,1,2,1,3,1,2,3,7,high,single,Titan Customers,Phone,test
+5066,Ms.,AMEX,Library assistant,female,47,Rural,Yes,35080,Single,Yes,Level2,1,3,No,0,Yes,No,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+5070,Ms.,AMEX,NA,female,19,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Premium,Yes,No,<=35,0,0,0,0,0,1,3,1,3,low,No Health Insurance,Millineum Potentials,SMS,test
+5072,Ms.,AMEX,NA,female,47,Urban,Yes,38180.4,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,high,1,3,0,0,0,0,1,3,low,No Health Insurance,Titan Customers,Email,test
+5077,Mr.,AMEX,Political geographer,male,45,Urban,Yes,22910,Single,Yes,Level2,1,2,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+5085,Mrs.,Visa,Psychiatric technician,female,20,Urban,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Backpacker,Yes,Yes,<=35,0,0,0,0,0,1,1,1,1,low,No Health Insurance,Millineum Potentials,SMS,test
+5086,Ms.,Visa,NA,female,39,Urban,Yes,31492,Single,Yes,Level1,1,2,Yes,Business,Yes,No,36-50,medium,1,2,1,1,1,3,3,6,med,Big family,Titan Customers,Email,test
+5091,Ms.,AMEX,Industrial millwright,female,47,Urban,Yes,36186,Single,Yes,Level3,0,3,Yes,Standard,Yes,No,36-50,high,1,3,1,3,1,2,3,8,high,Big family,Titan Customers,Email,test
+5107,Mr.,Visa,Clerical assistant,male,49,Urban,Yes,17382,Single,Yes,Level1,2,3,No,0,Yes,Yes,36-50,medium,1,2,1,1,0,0,2,3,low,Big family,Titan Customers,Email,test
+5110,Ms.,Visa,Junior high school teacher,female,50,Rural,No,NA,No MotorInsurance,Yes,Level2,1,2,No,0,Yes,No,36-50,0,0,0,1,2,0,0,1,2,low,Big family,Ready Rurals,Phone,test
+5118,Ms.,AMEX,NA,female,49,Urban,Yes,35521,Bundle,Yes,Level3,1,2,No,0,Yes,No,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
+5119,Mr.,Visa,NA,male,49,Urban,Yes,38180.4,Single,Yes,Level2,1,3,No,0,Yes,Yes,36-50,high,1,3,1,2,0,0,2,5,med,Big family,Titan Customers,Email,test
+5120,Mr.,AMEX,NA,male,49,Urban,No,NA,No MotorInsurance,Yes,Level2,1,3,Yes,Business,Yes,Yes,36-50,0,0,0,1,2,1,3,2,5,med,Big family,Ready Rurals,Phone,test
+5123,Mr.,AMEX,Chemist,male,43,Urban,Yes,31081,Single,Yes,Level2,0,3,No,0,Yes,Yes,36-50,medium,1,2,1,2,0,0,2,4,med,Big family,Titan Customers,Email,test
+5129,Mrs.,Visa,NA,female,20,Urban,Yes,28516,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+5144,Mr.,Visa,Short haul or local truck driver,male,44,Rural,No,NA,No MotorInsurance,No,0,No HI,No HI,Yes,Standard,Yes,No,36-50,0,0,0,0,0,1,2,1,2,low,No Health Insurance,Ready Rurals,Phone,test
+5152,Mr.,AMEX,NA,male,67,Urban,No,NA,No MotorInsurance,Yes,Level3,0,0,Yes,Senior,Yes,No,>50,0,0,0,1,3,1,2,2,5,med,single,Ready Rurals,Phone,test
+5156,Ms.,No Card,NA,female,59,Urban,Yes,27062,Single,Yes,Level3,1,0,No,0,No,No,>50,medium,1,2,1,3,0,0,2,5,med,nuclear family,Titan Customers,Phone,test
+5169,Mrs.,AMEX,Medical laboratory technician,female,18,Rural,Yes,30271,Bundle,No,0,No HI,No HI,Yes,Premium,Yes,Yes,<=35,medium,1,2,0,0,1,3,2,5,med,No Health Insurance,Millineum Potentials,Email,test
+5177,Mr.,Visa,En route controller,male,52,Rural,Yes,16622,Single,Yes,Level2,0,2,No,0,Yes,Yes,>50,medium,1,2,1,2,0,0,2,4,med,nuclear family,Ready Rurals,Phone,test
+5179,Mr.,Visa,Dipper,male,47,Rural,Yes,11277,Single,No,0,No HI,No HI,No,0,Yes,No,36-50,low,1,1,0,0,0,0,1,1,low,No Health Insurance,Ready Rurals,Phone,test
+5189,Mr.,No Card,NA,male,50,Urban,Yes,32673,Single,Yes,Level3,2,2,No,0,No,Yes,36-50,high,1,3,1,3,0,0,2,6,med,Big family,Titan Customers,Email,test
